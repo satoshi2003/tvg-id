@@ -158,7 +158,6 @@ GikTVMX.mx@SD
 USBC44000072I
 HodHodFarsiTV.ir@SD
 JapanimTV.be@SD
-Jim.Jam.cz
 60fb040d4795a6000762fe8f
 GB3400003A9
 plex.tv.KidsFlix.plex
@@ -195,6 +194,7 @@ toonamiaftermath-east
 ToonamiAftermathWestPST
 plex.tv.Toon.Goggles.plex
 plex.tv.TG.Junior.plex
+TRT.ÇOCUK.tr
 TRT.DIYANET.COCUK.tr
 647f8d22a2fc3fadb4721685-6617f52f0049fcb8e2b0d5b8
 ZooMoo.us2
@@ -203,8 +203,10 @@ ZooMoo.us2
 5e20b730f2f8d5003d739db7-66be944f8711311880995280
 562b0413f28e57899e3542b71ae5443a
 alphaCinema.ru@HD
+AmericanHorrors.us@SD
 ARTFLIXMovieClassics.us@SD
 6a1610bebdf296985fd95603-5eea605474085f0040ddc767
+AuroraMediaFilms.gt@SD
 AWTV.br@HD
 axnhd
 AXNBlack.us@Romania
@@ -467,7 +469,6 @@ historyhd
 6a1610bebdf296985fd95603-5f74cf83ffbe690040689f50
 UK:.History.Hunters.be
 plex.tv.History.&amp;.Warfare.plex
-HmongStarTV.us@SD
 USBD4200009Y4
 ¡HOLA!.TV.es
 USBC2400015DO
@@ -543,7 +544,6 @@ DE:.Terra.Mater.WILD.be
 tlchd
 6430aa45fc3be5947780904e-6720049929bcfe7b69d4feff
 4K.TRAVEL.TV.distro
-TRT.1.HD.tr
 TRT.News
 TRT.World.HD.tr
 True.Crime.uk
@@ -601,7 +601,6 @@ PL:.DAZN.Combat.be
 647f07e74cfc2c0008a2e557
 DD.Sports.in
 DraftKings.Network.us2
-Equidia.fr
 ESPN8.The.Ocho.us2
 plex.tv.FanDuel.TV.Extra.plex
 FBTV.tr
@@ -647,6 +646,7 @@ cg_spotvhd
 dr_spotv2hd
 plex.tv.Stadium.plex
 STAR.SPORTS.1.HINDI.in
+STAR.SPORTS.2.HINDI.HD.in
 plex.tv.Strongman.Champions.plex
 Teledeporte.es
 TeletrakTV.cl@SD
@@ -728,12 +728,11 @@ HLANDTV.kr@SD
 HLAODTV.kr@SD
 HLCQDTV.kr@SD
 HLAQDTV.kr@SD
+HLAJDTV.kr@SD
 HLAMDTV.kr@SD
 HLATDTV.kr@SD
-M&M.kr
 HLDRDTV.kr@SD
 HLCGDTV.kr@SD
-HLKJDTV.kr@SD
 HLDQDTV.kr@SD
 HLDHDTV.kr@SD
 HLDPDTV.kr@SD
@@ -1007,6 +1006,7 @@ FirstMusicChannelRussia.by@SD
 BFM2.fr@HD
 Canal32.fr@SD
 CannesLerinsTV.fr@SD
+CNews.fr@SD
 France.2..fr
 France.5.fr
 MonteCarloDigitalTelevision.fr@HD
