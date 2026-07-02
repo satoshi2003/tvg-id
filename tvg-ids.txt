@@ -157,7 +157,7 @@ FX2.ir@SD
 GikTVMX.mx@SD
 USBC44000072I
 HodHodFarsiTV.ir@SD
-JapanimTV.be@SD
+Jim.Jam.cz
 60fb040d4795a6000762fe8f
 GB3400003A9
 plex.tv.KidsFlix.plex
@@ -184,6 +184,7 @@ f1584888a8625b1abf77aecb4690abe0
 RoyaKids.jo@SD
 6a1610bebdf296985fd95603-5f91c4ea96a391002df9a664
 plex.tv.Sonic.The.Hedgehog.plex
+SpacetoonArabic.ae@SD
 StrawberryShortcake@HD
 697a2f8b3991484f03064614
 USBA2300001S8
@@ -194,7 +195,6 @@ toonamiaftermath-east
 ToonamiAftermathWestPST
 plex.tv.Toon.Goggles.plex
 plex.tv.TG.Junior.plex
-TRT.ÇOCUK.tr
 TRT.DIYANET.COCUK.tr
 647f8d22a2fc3fadb4721685-6617f52f0049fcb8e2b0d5b8
 ZooMoo.us2
@@ -456,6 +456,7 @@ fashionhd
 FashionTVParisLOriginal.fr@SD
 FashionTVSecrets.fr@HD
 KVCRDT242.us@SD
+FortunaTV.tr@SD
 france_24
 France24.fr@English
 Game.Show.Network.HD.us2
@@ -469,6 +470,7 @@ historyhd
 6a1610bebdf296985fd95603-5f74cf83ffbe690040689f50
 UK:.History.Hunters.be
 plex.tv.History.&amp;.Warfare.plex
+HmongStarTV.us@SD
 USBD4200009Y4
 ¡HOLA!.TV.es
 USBC2400015DO
@@ -530,7 +532,6 @@ São.Paulo/SP.Record.News.br
 GBBD4900001RG
 Right.Now.Tv.distro
 plex.tv.Robot.Wars.by.Mech+.plex
-RTILa3.ci
 RTViUS.us@SD
 USBB52000022Q
 eb1dbd690001553eacdf32d7b155b933
@@ -544,6 +545,7 @@ DE:.Terra.Mater.WILD.be
 tlchd
 6430aa45fc3be5947780904e-6720049929bcfe7b69d4feff
 4K.TRAVEL.TV.distro
+TRT.1.HD.tr
 TRT.News
 TRT.World.HD.tr
 True.Crime.uk
@@ -595,12 +597,12 @@ CazeTV.br
 5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd
 5e9f2c05172a0f0007db4786
 ČT.sport.cz
-PL:.DAZN.Combat.be
 64b67f0424ade50008a3be17
 64afe50c5dc16600087f3227
 647f07e74cfc2c0008a2e557
 DD.Sports.in
 DraftKings.Network.us2
+Equidia.fr
 ESPN8.The.Ocho.us2
 plex.tv.FanDuel.TV.Extra.plex
 FBTV.tr
@@ -728,17 +730,19 @@ HLANDTV.kr@SD
 HLAODTV.kr@SD
 HLCQDTV.kr@SD
 HLAQDTV.kr@SD
-HLAJDTV.kr@SD
 HLAMDTV.kr@SD
 HLATDTV.kr@SD
+M&M.kr
 HLDRDTV.kr@SD
 HLCGDTV.kr@SD
+HLKJDTV.kr@SD
 HLDQDTV.kr@SD
 HLDHDTV.kr@SD
 HLDPDTV.kr@SD
 TBSTV.kr@SD
 TVCHOSUN2.kr
 CWIN.hk
+RTHKTV31.hk@SD
 SEYT.hk
 SMUS.hk
 SSPT.hk
@@ -1006,7 +1010,6 @@ FirstMusicChannelRussia.by@SD
 BFM2.fr@HD
 Canal32.fr@SD
 CannesLerinsTV.fr@SD
-CNews.fr@SD
 France.2..fr
 France.5.fr
 MonteCarloDigitalTelevision.fr@HD
@@ -1024,7 +1027,6 @@ iptv36.nation
 NATTV.us@SD
 iptv36.nbt
 iptv36.one
-PoliceTV.th@SD
 RamaChannel.th@SD
 ThaiPBS.th
 TPTV.th
