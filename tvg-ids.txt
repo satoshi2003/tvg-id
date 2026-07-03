@@ -60,7 +60,6 @@ LONVG7aEDUg
 01qS-0ENQNg
 y36BwxWbVK4
 DnoTqKe04Rc
-wnmrxZdRSoE
 36YnV9STBqc
 V0QU80nRWIE
 JVocS7Yftw8
@@ -143,7 +142,6 @@ qpvnhd
 vietnamtoday
 youtv
 9XM.in@SD
-30AMusic.us@SD
 KMBYLD275.us@SD
 Brit.Asia.in
 CMCTV.hr@SD
@@ -153,11 +151,11 @@ DELUXE.MUSIC.de
 Deluxe.Rap.de
 US39000038W
 KpopMix.ar@SD
+KpopTVPlay.br@SD
 4653
 musicbox
 MusicBoxClassic.cz@SD
 MusicBoxDance.cz@SD
-MusicBoxHits.cz@SD
 MusicBoxSexy.cz@SD
 MusicInformationChannel.id@SD
 NOW.70s.uk
@@ -190,7 +188,6 @@ ADOTV.bj@SD
 alphaMoretime.ru@HD
 6a1610bebdf296985fd95603-69333216ac5b3f9f53442374
 40d73ba5be775428a377908b02033b4c
-Baby.TV.es
 MrBeanAnimated.uk@FR
 US300001UO
 USBD3300012VX
@@ -256,6 +253,7 @@ StrawberryShortcake@HD
 USBA2300001S8
 68b5a97fc8ef6afa31138718
 5ff609de50ab210008025c1b
+TomAndJerry.do@HD
 toonamiaftermath-east
 ToonamiAftermathWestPST
 plex.tv.Toon.Goggles.plex
@@ -286,6 +284,7 @@ BestDramaTV@HD
 BestThrillerTV@HD
 plex.tv.Beyond.Paranormal.plex
 Bigtime.pl@SD
+BINGE-TV.us2
 BIZCinema.uz@SD
 1395
 Boreal.do@SD
@@ -503,7 +502,6 @@ Cowboy.Channel.distro
 Das.Erste.de
 davinci
 plex.tv.Deal.Or.No.Deal.plex
-DellaTV.it@HD
 BBC.Dinos.24/7.us2
 Discovering.China.distro
 discoveryhd
@@ -522,6 +520,7 @@ fashionhd
 FashionTVParisLOriginal.fr@SD
 FashionTVSecrets.fr@HD
 KVCRDT242.us@SD
+FortunaTV.tr@SD
 france_24
 France24.fr@English
 Game.Show.Network.HD.us2
@@ -597,7 +596,6 @@ São.Paulo/SP.Record.News.br
 GBBD4900001RG
 Right.Now.Tv.distro
 plex.tv.Robot.Wars.by.Mech+.plex
-RTILa3.ci
 RTViUS.us@SD
 USBB52000022Q
 eb1dbd690001553eacdf32d7b155b933
@@ -611,6 +609,7 @@ DE:.Terra.Mater.WILD.be
 tlchd
 6430aa45fc3be5947780904e-6720049929bcfe7b69d4feff
 4K.TRAVEL.TV.distro
+TRT.1.HD.tr
 TRT.News
 TRT.World.HD.tr
 True.Crime.uk
@@ -634,7 +633,6 @@ Xplore.gr@SD
 f230a0c3f7ba5804b42d88f5d3c20002
 ninochannel
 sglive
-30AGolfKingdom.us@SD
 plex.tv.ACCDN.plex
 AceTV@HD
 ACI.Sport.Tv.it
@@ -783,6 +781,7 @@ IT:.Film.Top.-.Rakuten TV.TV.be
 RakutenTVTopMovies.es@Spain
 UK:.Top.Movies.-.Rakuten TV.TV.be
 CTV9.kh@SD
+MOITV.kh@SD
 SEATV.kh@SD
 TVK.kh@SD
 TVK2.kh@SD
@@ -790,24 +789,20 @@ ABN.kr@SD
 BBSTV.kr@SD
 BTN불교TV.kr
 FGTV.kr@SD
-KBSNSports.kr
 KCTV.kr@SD
 HLANDTV.kr@SD
 HLAODTV.kr@SD
 HLCQDTV.kr@SD
 HLAQDTV.kr@SD
-HLAJDTV.kr@SD
 HLAMDTV.kr@SD
 HLATDTV.kr@SD
+M&M.kr
 HLDRDTV.kr@SD
 HLCGDTV.kr@SD
 HLKJDTV.kr@SD
 HLDQDTV.kr@SD
 HLDHDTV.kr@SD
-SBSSports.kr
 HLDPDTV.kr@SD
-SPOTV.kr
-SPOTV2.kr
 TBSTV.kr@SD
 TVCHOSUN2.kr
 CWIN.hk
@@ -1076,9 +1071,7 @@ FirstMusicChannelRussia.by@SD
 686
 300054
 BFM2.fr@HD
-Canal32.fr@SD
 CannesLerinsTV.fr@SD
-CNews.fr@SD
 France.2..fr
 France.5.fr
 MonteCarloDigitalTelevision.fr@HD
