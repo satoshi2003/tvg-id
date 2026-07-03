@@ -8,6 +8,7 @@ cgnl_nba
 cg_pbarush_hd1
 vXTwl4YyY5A
 yO-pa5XlGlA
+SJ4eHPK5g58
 0U6Rg_SQC9E
 z93hM-rXG_o
 WrQdB7fezn4
@@ -67,7 +68,6 @@ AJsBdAToLLo
 6uddGul0oAc
 HWj1FwivQW8
 EUuinU_fueY
-fVtnHYzS0t4
 AYGEiSm29LM
 XO9HzREz3lc
 wNwAA7Frf_I
@@ -790,6 +790,7 @@ ABN.kr@SD
 BBSTV.kr@SD
 BTN불교TV.kr
 FGTV.kr@SD
+KBSNSports.kr
 KCTV.kr@SD
 HLANDTV.kr@SD
 HLAODTV.kr@SD
@@ -803,7 +804,10 @@ HLCGDTV.kr@SD
 HLKJDTV.kr@SD
 HLDQDTV.kr@SD
 HLDHDTV.kr@SD
+SBSSports.kr
 HLDPDTV.kr@SD
+SPOTV.kr
+SPOTV2.kr
 TBSTV.kr@SD
 TVCHOSUN2.kr
 CWIN.hk
