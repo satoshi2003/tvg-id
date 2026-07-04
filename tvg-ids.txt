@@ -59,6 +59,7 @@ HCxGywZIco0
 LONVG7aEDUg
 01qS-0ENQNg
 y36BwxWbVK4
+C0HJmh7quzA
 DnoTqKe04Rc
 36YnV9STBqc
 V0QU80nRWIE
@@ -142,6 +143,7 @@ qpvnhd
 vietnamtoday
 youtv
 9XM.in@SD
+30AMusic.us@SD
 KMBYLD275.us@SD
 Brit.Asia.in
 CMCTV.hr@SD
@@ -156,6 +158,7 @@ KpopTVPlay.br@SD
 musicbox
 MusicBoxClassic.cz@SD
 MusicBoxDance.cz@SD
+MusicBoxHits.cz@SD
 MusicBoxSexy.cz@SD
 MusicInformationChannel.id@SD
 NOW.70s.uk
@@ -163,7 +166,6 @@ NOW.80s.uk
 NOW.90s00s.uk
 Now.Rock.uk
 PlayTV.br@SD
-PlayTV.cm@SD
 PlayTV.gr@SD
 ReteTVItalia.it@SD
 RetroPlus2.cl@SD
@@ -219,7 +221,6 @@ FX2.ir@SD
 GikTVMX.mx@SD
 USBC44000072I
 HodHodFarsiTV.ir@SD
-JapanimTV.be@SD
 Jim.Jam.cz
 60fb040d4795a6000762fe8f
 GB3400003A9
@@ -345,7 +346,6 @@ MoviesThriller.sa
 plex.tv.MyTime.Movie.Network.plex
 e6d36fc89adf1de07aa090ec5669e0ca
 6368e15a51e9560007c592ed
-PLEXTV.cm@SD
 6a1610bebdf296985fd95603-66bfb17c144c201b8b61c10d
 plex.tv.RCN.Más.plex
 Revry.Her.distro
@@ -502,6 +502,7 @@ Cowboy.Channel.distro
 Das.Erste.de
 davinci
 plex.tv.Deal.Or.No.Deal.plex
+DellaTV.it@HD
 BBC.Dinos.24/7.us2
 Discovering.China.distro
 discoveryhd
@@ -568,6 +569,7 @@ KSBY61.us@HD
 NBCLX.us@SD
 UNIVERSO.HD.us2
 NDTV24x7.in@SD
+NetmaxTV.gr@SD
 plex.tv.Newsmax2.plex
 Newsmax.TV.distro
 NHKWorldJapan.jp@HD
@@ -596,6 +598,7 @@ São.Paulo/SP.Record.News.br
 GBBD4900001RG
 Right.Now.Tv.distro
 plex.tv.Robot.Wars.by.Mech+.plex
+RTILa3.ci
 RTViUS.us@SD
 USBB52000022Q
 eb1dbd690001553eacdf32d7b155b933
@@ -609,7 +612,6 @@ DE:.Terra.Mater.WILD.be
 tlchd
 6430aa45fc3be5947780904e-6720049929bcfe7b69d4feff
 4K.TRAVEL.TV.distro
-TRT.1.HD.tr
 TRT.News
 TRT.World.HD.tr
 True.Crime.uk
@@ -633,6 +635,7 @@ Xplore.gr@SD
 f230a0c3f7ba5804b42d88f5d3c20002
 ninochannel
 sglive
+30AGolfKingdom.us@SD
 plex.tv.ACCDN.plex
 AceTV@HD
 ACI.Sport.Tv.it
@@ -729,7 +732,6 @@ TVR.Sport.HD.ro
 TVSBoxing.us
 677d9adfa9a51b0008497fa0
 68c820525ec82769fdfcd104
-MatchPlaneta.ru@SD
 DK:.Actionfilm.-.Rakuten TV.TV.be
 RakutenTVActionMovies.es@Germany
 RakutenTVActionMovies.es@Italy
@@ -794,9 +796,9 @@ HLANDTV.kr@SD
 HLAODTV.kr@SD
 HLCQDTV.kr@SD
 HLAQDTV.kr@SD
+HLAJDTV.kr@SD
 HLAMDTV.kr@SD
 HLATDTV.kr@SD
-M&M.kr
 HLDRDTV.kr@SD
 HLCGDTV.kr@SD
 HLKJDTV.kr@SD
@@ -1072,6 +1074,7 @@ FirstMusicChannelRussia.by@SD
 300054
 BFM2.fr@HD
 CannesLerinsTV.fr@SD
+CNews.fr@SD
 France.2..fr
 France.5.fr
 MonteCarloDigitalTelevision.fr@HD
@@ -1081,7 +1084,6 @@ News1.th@SD
 iptv36.ch7
 iptv36.tv5
 ThaiChannel8.th
-CoolChannel.th@SD
 DOPAChannel.th
 GMM 25.th
 MCOT HD.th
@@ -1090,7 +1092,6 @@ NATTV.us@SD
 iptv36.nbt
 iptv36.one
 RamaChannel.th@SD
-ThaiPBS.th
 TPTV.th
 True4U.th
 iptv36.workpoint
@@ -1100,6 +1101,8 @@ Canale7.it@SD
 KissKissTV.it@SD
 LaCNews24.it@SD
 LaCTV.it@SD
+Rai3.it
+RaiGulp.it
 Rete8.it@SD
 SanMarinoRTV.sm
 SanMarinoRTVSport.sm
