@@ -30,7 +30,6 @@ tU2bRjRZx20
 2AYqKQ4pe8Y
 v4YI2KEnhik
 h5N3ue1ozUY
-CWkj466wwI0
 r0EQDG7kEW4
 SORD03t7nlo
 LfCMgram4UU
@@ -59,7 +58,6 @@ HCxGywZIco0
 LONVG7aEDUg
 01qS-0ENQNg
 y36BwxWbVK4
-C0HJmh7quzA
 DnoTqKe04Rc
 36YnV9STBqc
 V0QU80nRWIE
@@ -153,6 +151,7 @@ DELUXE.MUSIC.de
 Deluxe.Rap.de
 US39000038W
 KpopMix.ar@SD
+KpopTVPlay.br@SD
 4653
 musicbox
 MusicBoxClassic.cz@SD
@@ -217,7 +216,6 @@ EnerGeekFAN.cl@SD
 GikTVMX.mx@SD
 USBC44000072I
 JapanimTV.be@SD
-Jim.Jam.cz
 60fb040d4795a6000762fe8f
 GB3400003A9
 plex.tv.KidsFlix.plex
@@ -265,7 +263,7 @@ AmericanHorrors.us@SD
 ARTFLIXMovieClassics.us@SD
 AsianBox.mn@SD
 6a1610bebdf296985fd95603-5eea605474085f0040ddc767
-AWTV.br@HD
+AuroraMediaFilms.gt@SD
 axnhd
 6a1610bebdf296985fd95603-63e63f20abacad42ed3d1acf
 5ce4475cd43850831ca91ce7
@@ -444,6 +442,7 @@ whiplashatlas
 GB3200005SO
 GB3200006AZ
 AutoTV@HD_2
+AWE.us
 AWEEncore.us@SD
 AWEInternational.us@SD
 697140a85d851f5e69414688-699def175ca3d4c9d62d7539
@@ -479,6 +478,7 @@ Cowboy.Channel.distro
 Das.Erste.de
 davinci
 plex.tv.Deal.Or.No.Deal.plex
+DellaTV.it@HD
 BBC.Dinos.24/7.us2
 Discovering.China.distro
 discoveryhd
@@ -752,7 +752,6 @@ ABN.kr@SD
 BBSTV.kr@SD
 BTN불교TV.kr
 FGTV.kr@SD
-KBSNSports.kr
 KCTV.kr@SD
 HLANDTV.kr@SD
 HLAODTV.kr@SD
@@ -766,10 +765,7 @@ HLCGDTV.kr@SD
 HLKJDTV.kr@SD
 HLDQDTV.kr@SD
 HLDHDTV.kr@SD
-SBSSports.kr
 HLDPDTV.kr@SD
-SPOTV.kr
-SPOTV2.kr
 TBSTV.kr@SD
 TVCHOSUN2.kr
 CWIN.hk
