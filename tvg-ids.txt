@@ -153,7 +153,6 @@ DELUXE.MUSIC.de
 Deluxe.Rap.de
 US39000038W
 KpopMix.ar@SD
-KpopTVPlay.br@SD
 4653
 musicbox
 MusicBoxClassic.cz@SD
@@ -266,7 +265,6 @@ AmericanHorrors.us@SD
 ARTFLIXMovieClassics.us@SD
 AsianBox.mn@SD
 6a1610bebdf296985fd95603-5eea605474085f0040ddc767
-AuroraMediaFilms.gt@SD
 AWTV.br@HD
 axnhd
 6a1610bebdf296985fd95603-63e63f20abacad42ed3d1acf
@@ -446,7 +444,6 @@ whiplashatlas
 GB3200005SO
 GB3200006AZ
 AutoTV@HD_2
-AWE.us
 AWEEncore.us@SD
 AWEInternational.us@SD
 697140a85d851f5e69414688-699def175ca3d4c9d62d7539
@@ -482,7 +479,6 @@ Cowboy.Channel.distro
 Das.Erste.de
 davinci
 plex.tv.Deal.Or.No.Deal.plex
-DellaTV.it@HD
 BBC.Dinos.24/7.us2
 Discovering.China.distro
 discoveryhd
@@ -603,6 +599,7 @@ sglive
 30AGolfKingdom.us@SD
 plex.tv.ACCDN.plex
 AceTV@HD
+ACI.Sport.Tv.it
 ADOTV.bj
 Africa24Sport.fr@SD
 Alkass.One.HD.ae
@@ -755,6 +752,7 @@ ABN.kr@SD
 BBSTV.kr@SD
 BTN불교TV.kr
 FGTV.kr@SD
+KBSNSports.kr
 KCTV.kr@SD
 HLANDTV.kr@SD
 HLAODTV.kr@SD
@@ -768,7 +766,10 @@ HLCGDTV.kr@SD
 HLKJDTV.kr@SD
 HLDQDTV.kr@SD
 HLDHDTV.kr@SD
+SBSSports.kr
 HLDPDTV.kr@SD
+SPOTV.kr
+SPOTV2.kr
 TBSTV.kr@SD
 TVCHOSUN2.kr
 CWIN.hk
@@ -1058,6 +1059,7 @@ NATTV.us@SD
 iptv36.nbt
 iptv36.one
 RamaChannel.th@SD
+ThaiPBS.th
 TPTV.th
 True4U.th
 iptv36.workpoint
