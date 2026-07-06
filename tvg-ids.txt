@@ -31,6 +31,7 @@ tU2bRjRZx20
 2AYqKQ4pe8Y
 v4YI2KEnhik
 h5N3ue1ozUY
+B87d3xc0s5U
 r0EQDG7kEW4
 SORD03t7nlo
 LfCMgram4UU
@@ -51,8 +52,8 @@ x-JC7sJJUW8
 DSGyEsJ17cI
 6Z7-6MDhJfM
 Dx5qFachd3A
+UmnjLRBn9Uk
 -kVgcWGGALw
-P_QVETeR87E
 HCxGywZIco0
 4x37lR1CNOw
 8J0hdFVk_BQ
@@ -142,7 +143,6 @@ qpvnhd
 vietnamtoday
 youtv
 9XM.in@SD
-30AMusic.us@SD
 KMBYLD275.us@SD
 Brit.Asia.in
 CMCTV.hr@SD
@@ -152,6 +152,7 @@ DELUXE.MUSIC.de
 Deluxe.Rap.de
 US39000038W
 KpopMix.ar@SD
+KpopTVPlay.br@SD
 4653
 musicbox
 MusicBoxClassic.cz@SD
@@ -184,12 +185,11 @@ Vevo.Pop.us2
 mjh-abc-kids
 mjh-abc-tv-plus
 ADNTVPlus.fr@SD
-ADOTV.bj@SD
 99991253
+alphaMoretime.ru@HD
 6a1610bebdf296985fd95603-69333216ac5b3f9f53442374
 40d73ba5be775428a377908b02033b4c
 MrBeanAnimated.uk@FR
-US300001UO
 USBD3300012VX
 cbeebies
 BeJoykids.it@HD
@@ -202,31 +202,24 @@ Cartoon_Classics
 Cartoonito
 cartoonhd
 ChinolaTV.do@SD
-DiosTeVeKids.hn@SD
 Canal.Disney.Junior.(Chile).cl
 Disney.Junior.HD.us2
 Disney.XD.HD.us2
 DreamTV.mn
 dreamworks
 Duck.TV.HD.sk
-EnerGeek.cl@SD
-EnerGeekFAN.cl@SD
 6a1610bebdf296985fd95603-6449369eb3ff17382cae5819
-GikTVMX.mx@SD
 USBC44000072I
 JapanimTV.be@SD
-Jim.Jam.cz
 60fb040d4795a6000762fe8f
 GB3400003A9
 plex.tv.KidsFlix.plex
 KuriakosKids.pt@SD
 60fb01a24795a6000762fe83
-LogosTVKids.es@SD
 plex.tv.Mattel.Jr..plex
 b5cde121f98257329346020e2a60295a
 Nickelodeon.fr@SD
 NickelodeonJunior.fr@SD
-NickOnline.br@SD
 NickToonsBrasil.br@SD
 plex.tv.Ninja.Kidz.TV.plex
 62e94ec74823db0007277a8f
@@ -258,11 +251,11 @@ ZooMoo.us2
 30ATVClassicMovies.us@SD
 5e20b730f2f8d5003d739db7-66be944f8711311880995280
 562b0413f28e57899e3542b71ae5443a
+alphaCinema.ru@HD
 AmericanHorrors.us@SD
 ARTFLIXMovieClassics.us@SD
 AsianBox.mn@SD
 6a1610bebdf296985fd95603-5eea605474085f0040ddc767
-AuroraMediaFilms.gt@SD
 AWTV.br@HD
 axnhd
 6a1610bebdf296985fd95603-63e63f20abacad42ed3d1acf
@@ -333,7 +326,6 @@ e6d36fc89adf1de07aa090ec5669e0ca
 6368e15a51e9560007c592ed
 PLEXTV.cm@SD
 6a1610bebdf296985fd95603-66bfb17c144c201b8b61c10d
-plex.tv.RCN.Más.plex
 Revry.Her.distro
 05a58f8f0d1b55999a9ab0e9caae8a47
 Scares.by.Shudder.us2
@@ -445,7 +437,6 @@ AWE.us
 AWEEncore.us@SD
 AWEInternational.us@SD
 697140a85d851f5e69414688-699def175ca3d4c9d62d7539
-BBCAmerica.us@East
 bbcearth
 99951231
 plex.tv.Impossible.-.Quiz.Show.plex
@@ -456,8 +447,6 @@ BIZTV.uz@SD
 plex.tv.Bounce.XL.plex
 Bravo.+1.nz
 CGTNDocumentary.cn
-Channel5International.ru@SD
-Channel10.ru@SD
 ChileChannel.cl@SD
 China.Travel.distro
 Circle.Country.us2
@@ -639,7 +628,6 @@ FoosballTV@HD
 FOXSports@HD
 plex.tv.FTF.Sports.plex
 plex.tv.FUEL.TV.plex
-Futbol.tj
 plex.tv.GLORY.Kickboxing.plex
 GoalTV
 63a0e33a45264d000850ed7e
@@ -757,13 +745,17 @@ HLAQDTV.kr@SD
 HLAJDTV.kr@SD
 HLAMDTV.kr@SD
 HLATDTV.kr@SD
+M&M.kr
 HLDRDTV.kr@SD
 HLCGDTV.kr@SD
+HLKJDTV.kr@SD
+HLDQDTV.kr@SD
 HLDHDTV.kr@SD
 HLDPDTV.kr@SD
 TBSTV.kr@SD
 TVCHOSUN2.kr
 CWIN.hk
+RTHKTV31.hk@SD
 SEYT.hk
 SMUS.hk
 SSPT.hk
@@ -1040,6 +1032,7 @@ iptv36.ch7
 iptv36.tv5
 ThaiChannel8.th
 CoolChannel.th@SD
+DOPAChannel.th
 GMM 25.th
 MCOT HD.th
 iptv36.nation
@@ -1129,6 +1122,7 @@ KissKissTV.it@SD
 LaCNews24.it@SD
 LaCTV.it@SD
 Rai3.it
+RaiGulp.it
 Rete8.it@SD
 SanMarinoRTV.sm
 SanMarinoRTVSport.sm
