@@ -13,6 +13,7 @@ SJ4eHPK5g58
 z93hM-rXG_o
 WrQdB7fezn4
 mQ_IHtYueCM
+lvq_4LGjk-U
 ZH_FKEoA2U8
 b-bK2Vn3D38
 9UMxZofMNbA
@@ -22,7 +23,6 @@ IkmLXvBfVv0
 ZpHT1YhLqqM
 Os6P7DpP-sw
 pR-me-UwxX0
-bFRaWihw-0M
 ouaYXtDz3Uk
 tr77RbnfYIU
 OxQQsIvJTTU
@@ -41,7 +41,6 @@ J0bO_dGUuf0
 yXjFQjTcWXg
 t4e7wy7Niaw
 --7X8boXOcI
-mJVIt0zpGas
 P0wjZFGu6io
 HCEqojdt4sw
 6UhXXKZWfyo
@@ -145,6 +144,7 @@ youtv
 9XM.in@SD
 30AMusic.us@SD
 KMBYLD275.us@SD
+Brit.Asia.in
 CMCTV.hr@SD
 Deluxe.Dance.de
 Deluxe.Lounge.de
@@ -152,7 +152,6 @@ DELUXE.MUSIC.de
 Deluxe.Rap.de
 US39000038W
 KpopMix.ar@SD
-KpopTVPlay.br@SD
 4653
 musicbox
 MusicBoxClassic.cz@SD
@@ -233,6 +232,7 @@ BIZCinema.uz@SD
 1395
 boxhits
 boxmovie1
+CelestialMovies.id
 CHARGE!.us2
 400000028
 CineLife.us@SD
@@ -264,7 +264,6 @@ HorrorTV@HD
 KungFu+@HD
 6a1610bebdf296985fd95603-6196c9241d310bf925e02616
 834e2a09799752b3be7ecaab726b7242
-MegaCineTV.do@HD
 plex.tv.Midnight.Pulp.plex
 5f77977bd924d80007eee60c
 MixHollywood.eg@SD
@@ -280,7 +279,6 @@ e6d36fc89adf1de07aa090ec5669e0ca
 6368e15a51e9560007c592ed
 PLEXTV.cm@SD
 6a1610bebdf296985fd95603-66bfb17c144c201b8b61c10d
-Revry.Her.distro
 05a58f8f0d1b55999a9ab0e9caae8a47
 Scares.by.Shudder.us2
 6430aa45fc3be5947780904e-692229df50fe592fd6d5b7e2
@@ -424,6 +422,7 @@ plex.tv.Highway.Thru.Hell.plex
 Historia.es
 historyhd
 6a1610bebdf296985fd95603-5f74cf83ffbe690040689f50
+UK:.History.Hunters.be
 plex.tv.History.&amp;.Warfare.plex
 USBD4200009Y4
 ¡HOLA!.TV.es
@@ -490,7 +489,6 @@ Surfing+@HD
 DE:.Terra.Mater.WILD.be
 tlchd
 6430aa45fc3be5947780904e-6720049929bcfe7b69d4feff
-TRT.1.HD.tr
 TRT.News
 TRT.World.HD.tr
 True.Crime.uk
@@ -660,26 +658,23 @@ TVK.kh@SD
 TVK2.kh@SD
 ABN.kr@SD
 BBSTV.kr@SD
+BTN불교TV.kr
 FGTV.kr@SD
 KCTV.kr@SD
 HLANDTV.kr@SD
 HLAODTV.kr@SD
 HLCQDTV.kr@SD
 HLAQDTV.kr@SD
-HLAJDTV.kr@SD
 HLAMDTV.kr@SD
 HLATDTV.kr@SD
-M&M.kr
 HLDRDTV.kr@SD
 HLCGDTV.kr@SD
-HLKJDTV.kr@SD
 HLDQDTV.kr@SD
 HLDHDTV.kr@SD
 HLDPDTV.kr@SD
 TBSTV.kr@SD
 TVCHOSUN2.kr
 CWIN.hk
-RTHKTV31.hk@SD
 SEYT.hk
 SMUS.hk
 SSPT.hk
@@ -739,6 +734,7 @@ AlSaudiya.sa@SD
 1035
 4621
 100013
+2266
 300121
 259
 9097
@@ -748,6 +744,7 @@ FreshNews.kh@SD
 1520
 300082
 300086
+1590
 1754
 MaharTV.mm@SD
 1667
@@ -957,6 +954,7 @@ iptv36.ch7
 iptv36.tv5
 ThaiChannel8.th
 CoolChannel.th@SD
+DOPAChannel.th
 GMM 25.th
 MCOT HD.th
 iptv36.nation
@@ -972,7 +970,6 @@ iptv36.workpoint
 CCTV1.cn
 CCTV2.cn
 CCTV3.cn
-CCTV4.cn
 CCTV5.cn
 CCTV5+.cn
 CCTV6.cn
@@ -982,7 +979,7 @@ CCTV11.cn
 CCTV12.cn
 CCTV13.cn
 CCTV14.cn
-CCTV16.cn
+CCTV15.cn
 CCTV17.cn
 东南卫视.cn
 东方卫视.cn
@@ -992,7 +989,10 @@ CCTV17.cn
 北京卫视.cn
 厦门卫视.cn
 吉林卫视.cn
+四川卫视.cn
+天津卫视.cn
 安徽卫视.cn
+山东卫视.cn
 广东卫视.cn
 广西卫视.cn
 江苏卫视.cn
@@ -1001,17 +1001,17 @@ CCTV17.cn
 河南卫视.cn
 浙江卫视.cn
 浙江卫视4K.cn
-湖南卫视.cn
-甘肃卫视.cn
-贵州卫视.cn
+深圳卫视.cn
+湖北卫视.cn
 辽宁卫视.cn
+重庆卫视.cn
+陕西卫视.cn
 黑龙江卫视.cn
 6.cn
 CHC动作电影.cn
 CHC家庭影院.cn
 CHC影迷电影.cn
 之江记录.cn
-发现之旅.cn
 吉林纪录片轮播.cn
 广东新闻.cn
 广东民生.cn
@@ -1035,11 +1035,9 @@ CHC影迷电影.cn
 河南睛彩中原.cn
 河南象视界.cn
 河南都市频道.cn
-老故事.cn
 营山.cn
 象视界.cn
 钱江.cn
-风云剧场.cn
 7YOUME.it@HD
 CafeTV24.it@SD
 Canale7.it@SD
