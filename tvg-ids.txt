@@ -35,6 +35,7 @@ B87d3xc0s5U
 r0EQDG7kEW4
 SORD03t7nlo
 LfCMgram4UU
+BlE_85UfIxc
 4v3pkriGUtQ
 J0bO_dGUuf0
 7r_8F2PiLnc
@@ -71,6 +72,7 @@ EUuinU_fueY
 AYGEiSm29LM
 XO9HzREz3lc
 wNwAA7Frf_I
+eBhUVNUyD7Q
 Ri-7AQ1l1Io
 vtv1hd
 vtv2hd
@@ -153,7 +155,6 @@ DELUXE.MUSIC.de
 Deluxe.Rap.de
 US39000038W
 KpopMix.ar@SD
-KpopTVPlay.br@SD
 4653
 musicbox
 MusicBoxClassic.cz@SD
@@ -215,7 +216,6 @@ PBSKidsPacific.us@SD
 697a2f8b3991484f03064614
 68b5a97fc8ef6afa31138718
 5ff609de50ab210008025c1b
-TomAndJerry.do@HD
 toonamiaftermath-east
 ToonamiAftermathWestPST
 plex.tv.Toon.Goggles.plex
@@ -241,10 +241,8 @@ BIZCinema.uz@SD
 1395
 boxhits
 boxmovie1
-CelestialMovies.id
 CHARGE!.us2
 400000028
-CineLife.us@SD
 cinemaxhd
 79eb3a43680e5a9f9689fee074502a3b
 Sony.Cine.us2
@@ -258,7 +256,11 @@ d93912b4b21158fd95af2ceb8979c586
 6a1610bebdf296985fd95603-5efe1de7e0b3f5003f5d9f8e
 6a1610bebdf296985fd95603-63489a771159f6a5ce819b7b
 GroovyTV.gr@SD
+Hallmark.Channel.HD.us2
+Hallmark.Family.us2
+plex.tv.Hallmark.Movies.&amp;.More.plex
 628e685ba3811100070551a8
+Hallmark.Mystery.HD.us2
 hbohd
 400000104
 6a1610bebdf296985fd95603-5f64c4ef35f612003f6ffe30
@@ -422,8 +424,8 @@ fashionhd
 FashionTVParisLOriginal.fr@SD
 FashionTVSecrets.fr@HD
 KVCRDT242.us@SD
-FortunaTV.tr@SD
 france_24
+GakinoTsukaiEnglishSubs@HD
 Game.Show.Network.HD.us2
 GlobalFashionChannel.us@SD
 plex.tv.Grit.Xtra.plex
@@ -432,6 +434,8 @@ hgtv
 plex.tv.Highway.Thru.Hell.plex
 Historia.es
 historyhd
+History.us@East
+History2LatinAmerica.us@Panregional
 6a1610bebdf296985fd95603-5f74cf83ffbe690040689f50
 UK:.History.Hunters.be
 plex.tv.History.&amp;.Warfare.plex
@@ -479,7 +483,6 @@ PETC.hk
 Pitaara.in
 64305451fc3be5947773c339-671ab1dc79fce66281154344
 Popcorn@HD_2
-UK:.Popflix.be
 UK:.RACER.International.be
 plex.tv.RACER.Select.plex
 UK:.Rally.TV.FAST+.be
@@ -502,6 +505,7 @@ DE:.Terra.Mater.WILD.be
 tlchd
 6430aa45fc3be5947780904e-6720049929bcfe7b69d4feff
 4K.TRAVEL.TV.distro
+TRT.1.HD.tr
 TRT.News
 TRT.World.HD.tr
 True.Crime.uk
@@ -558,6 +562,7 @@ plex.tv.FanDuel.TV.Extra.plex
 FBTV.tr
 FIFAPlus.uk
 FIFAPlusWomen.uk
+FightBox.HD.pl
 NO:.FloHockey.24/7.be
 58e6bfd1c4819af32ead547dbc82e1f8
 FoosballTV@HD
@@ -570,6 +575,7 @@ GoalTV
 63a0e33a45264d000850ed7e
 GolfNetwork@HD
 plex.tv.GOLFPASS.plex
+GolfZone.pl@SD
 PL:.Hard.Knocks.Fighting.Championship.be
 HomerunTV
 HoopTV@HD
@@ -665,7 +671,6 @@ IT:.Film.Top.-.Rakuten TV.TV.be
 RakutenTVTopMovies.es@Spain
 UK:.Top.Movies.-.Rakuten TV.TV.be
 CTV9.kh@SD
-MOITV.kh@SD
 SEATV.kh@SD
 TVK.kh@SD
 TVK2.kh@SD
@@ -674,11 +679,9 @@ BBSTV.kr@SD
 BTN불교TV.kr
 FGTV.kr@SD
 KCTV.kr@SD
-HLANDTV.kr@SD
 HLAODTV.kr@SD
 HLCQDTV.kr@SD
 HLAQDTV.kr@SD
-HLAJDTV.kr@SD
 HLAMDTV.kr@SD
 HLATDTV.kr@SD
 HLDRDTV.kr@SD
@@ -690,7 +693,6 @@ HLDPDTV.kr@SD
 TBSTV.kr@SD
 TVCHOSUN2.kr
 CWIN.hk
-RTHKTV31.hk@SD
 SEYT.hk
 SMUS.hk
 SSPT.hk
@@ -972,6 +974,7 @@ FirstMusicChannelRussia.by@SD
 BFM2.fr@HD
 CannesLerinsTV.fr@SD
 CNews.fr@SD
+CNEWSPRIME.fr@HD
 France.2..fr
 France.5.fr
 MonteCarloDigitalTelevision.fr@HD
@@ -982,6 +985,7 @@ iptv36.ch7
 iptv36.tv5
 ThaiChannel8.th
 CoolChannel.th@SD
+DOPAChannel.th
 GMM 25.th
 MCOT HD.th
 iptv36.nation
@@ -1120,6 +1124,7 @@ LaCNews24.it@SD
 LaCTV.it@SD
 Rai3.it
 RaiGulp.it
+Rete8.it@SD
 SanMarinoRTV.sm
 SanMarinoRTVSport.sm
 BT Sport 1
