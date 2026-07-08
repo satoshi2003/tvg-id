@@ -65,6 +65,7 @@ DnoTqKe04Rc
 V0QU80nRWIE
 JVocS7Yftw8
 AJsBdAToLLo
+OiIrRh1I46A
 6uddGul0oAc
 HWj1FwivQW8
 EUuinU_fueY
@@ -143,9 +144,9 @@ qpvnhd
 vietnamtoday
 youtv
 9XM.in@SD
-30AMusic.us@SD
 KMBYLD275.us@SD
 Brit.Asia.in
+CMCTV.hr@SD
 Deluxe.Dance.de
 Deluxe.Lounge.de
 DELUXE.MUSIC.de
@@ -193,6 +194,7 @@ cbeebies
 Cartoon_Classics
 boomerang
 cartoonhd
+62f3e8ad2a8e8000077b013d
 685a996c7c4f2ad40cb4f276
 68e8fd7c3ede4398bc69af93
 Dreambox.mn
@@ -204,6 +206,7 @@ USBC44000072I
 plex.tv.KidsFlix.plex
 60fb01a24795a6000762fe83
 b5cde121f98257329346020e2a60295a
+5f7790b3ed0c88000720b241
 62e94ec74823db0007277a8f
 PBSKids.us@SD
 PBSKidsAlaska.us@SD
@@ -219,6 +222,7 @@ toonamiaftermath-east
 toonamiaftermath-west
 plex.tv.Toon.Goggles.plex
 plex.tv.TG.Junior.plex
+60fb053712f22a0007ff14d2
 647f8d22a2fc3fadb4721685-6617f52f0049fcb8e2b0d5b8
 ZooMoo.us2
 24.Hour.Free.Movies.distro
@@ -226,7 +230,7 @@ ZooMoo.us2
 5e20b730f2f8d5003d739db7-66be944f8711311880995280
 562b0413f28e57899e3542b71ae5443a
 AmericanHorrors.us@SD
-AsianBox.mn@SD
+AsianBox.mn
 6a1610bebdf296985fd95603-5eea605474085f0040ddc767
 AuroraMediaFilms.gt@SD
 axnhd
@@ -240,8 +244,11 @@ BIZCinema.uz@SD
 1395
 boxhits
 boxmovie1
+Canal+.Cinéma(s).fr
+CANAL+.Film.HD.pl
 CHARGE!.us2
 400000028
+Cinema.HD.mn
 cinemaxhd
 79eb3a43680e5a9f9689fee074502a3b
 Sony.Cine.us2
@@ -253,12 +260,15 @@ CowboyMovieChannel@HD
 DiscoverFilm.uk@SD
 d93912b4b21158fd95af2ceb8979c586
 6a1610bebdf296985fd95603-5efe1de7e0b3f5003f5d9f8e
+Great.American.Faith.and.Living.us2
+Great.American.Family.HD.us2
 6a1610bebdf296985fd95603-63489a771159f6a5ce819b7b
 GroovyTV.gr@SD
 Hallmark.Channel.HD.us2
 Hallmark.Family.us2
 plex.tv.Hallmark.Movies.&amp;.More.plex
 628e685ba3811100070551a8
+Hallmark.Mystery.HD.us2
 hbohd
 400000104
 6a1610bebdf296985fd95603-5f64c4ef35f612003f6ffe30
@@ -278,7 +288,7 @@ plex.tv.Midnight.Pulp.plex
 5f77977bd924d80007eee60c
 MixHollywood.eg@SD
 MNPlus.mn@SD
-MovieBox.mn@SD
+MovieBox.mn
 EN:.Movies.Action.sa
 64a3d96f060e830008af6745
 697140a85d851f5e69414688-6623c78128a167c6e5b3079c
@@ -287,6 +297,7 @@ MoviesThriller.sa
 plex.tv.MyTime.Movie.Network.plex
 e6d36fc89adf1de07aa090ec5669e0ca
 6368e15a51e9560007c592ed
+5ff8c708653d080007361b14
 PLEXTV.cm@SD
 6a1610bebdf296985fd95603-66bfb17c144c201b8b61c10d
 05a58f8f0d1b55999a9ab0e9caae8a47
@@ -370,6 +381,7 @@ vinhlong2hd
 vinhlong3hd
 vinhlong4hd
 vinhlong5hd
+4K.TRAVEL.TV.distro
 abcaustralia
 mjh-abc-me
 ABCNewsSydney.au
@@ -399,7 +411,6 @@ Circle.Country.us2
 CNA.(HD).sg
 UK:.CNA.Originals.be
 cnbc
-CNBC.HD.uk
 cnn
 CostaRicaChannel.cr@SD
 Cowboy.Channel.distro
@@ -494,6 +505,7 @@ Right.Now.Tv.distro
 plex.tv.Robot.Wars.by.Mech+.plex
 RTViUS.us@SD
 USBB52000022Q
+5f21ea08007a49000762d349
 eb1dbd690001553eacdf32d7b155b933
 plex.tv.Spark.TV.Luz.y.Amor.plex
 StarChannel.gr@SD
@@ -504,7 +516,6 @@ Surfing+@HD
 DE:.Terra.Mater.WILD.be
 tlchd
 6430aa45fc3be5947780904e-6720049929bcfe7b69d4feff
-4K.TRAVEL.TV.distro
 TRT.1.HD.tr
 TRT.News
 TRT.World.HD.tr
@@ -523,6 +534,7 @@ whiplashwindowtv
 woman
 Xplore.gr@SD
 f230a0c3f7ba5804b42d88f5d3c20002
+6000a6f4c3f8550008fc9b91
 ninochannel
 sglive
 30AGolfKingdom.us@SD
@@ -729,6 +741,7 @@ plex.tv.BET.x.Tyler.Perry.Comedy.plex
 plex.tv.BET.x.Tyler.Perry.Drama.plex
 6549310a53fc97000838fcc9
 6400f731d200410008f9b339
+640a68880e884c0009979cc2
 5f8a02476b72230007e62b7d
 63335b193583440007c859fb
 6036e7c385749f00075dbd3b
@@ -991,7 +1004,6 @@ iptv36.ch7
 iptv36.tv5
 ThaiChannel8.th
 CoolChannel.th@SD
-DOPAChannel.th
 GMM 25.th
 MCOT HD.th
 iptv36.nation
