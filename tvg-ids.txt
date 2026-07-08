@@ -44,6 +44,7 @@ t4e7wy7Niaw
 87FT3jYDvuc
 P0wjZFGu6io
 HCEqojdt4sw
+B-eJZV_ZvIQ
 WnCfvAMM9eY
 Ukyd5pBfJjM
 0C4kZlNrhbI
@@ -151,6 +152,7 @@ DELUXE.MUSIC.de
 Deluxe.Rap.de
 US39000038W
 KpopMix.ar@SD
+KpopTVPlay.br@SD
 4653
 musicbox
 MusicBoxClassic.cz@SD
@@ -189,11 +191,11 @@ cbeebies
 5f1aca0b4e448e00075e7c5e
 64666345f3f5b1000882bfb4
 Cartoon_Classics
-Cartoonito
+boomerang
 cartoonhd
 685a996c7c4f2ad40cb4f276
 68e8fd7c3ede4398bc69af93
-DreamTV.mn
+Dreambox.mn
 dreamworks
 Duck.TV.HD.sk
 6a1610bebdf296985fd95603-6449369eb3ff17382cae5819
@@ -212,8 +214,9 @@ PBSKidsPacific.us@SD
 697a2f8b3991484f03064614
 68b5a97fc8ef6afa31138718
 5ff609de50ab210008025c1b
+TomAndJerry.do@HD
 toonamiaftermath-east
-ToonamiAftermathWestPST
+toonamiaftermath-west
 plex.tv.Toon.Goggles.plex
 plex.tv.TG.Junior.plex
 647f8d22a2fc3fadb4721685-6617f52f0049fcb8e2b0d5b8
@@ -256,7 +259,6 @@ Hallmark.Channel.HD.us2
 Hallmark.Family.us2
 plex.tv.Hallmark.Movies.&amp;.More.plex
 628e685ba3811100070551a8
-Hallmark.Mystery.HD.us2
 hbohd
 400000104
 6a1610bebdf296985fd95603-5f64c4ef35f612003f6ffe30
@@ -423,6 +425,7 @@ FashionTVSecrets.fr@HD
 KVCRDT242.us@SD
 FortunaTV.tr@SD
 france_24
+GakinoTsukaiEnglishSubs@HD
 Game.Show.Network.HD.us2
 GlobalFashionChannel.us@SD
 plex.tv.Grit.Xtra.plex
@@ -564,6 +567,7 @@ NO:.FloHockey.24/7.be
 58e6bfd1c4819af32ead547dbc82e1f8
 FoosballTV@HD
 FOXSports@HD
+FoxSports.ar@SD
 plex.tv.FTF.Sports.plex
 plex.tv.FUEL.TV.plex
 Futbol.tj
@@ -673,6 +677,7 @@ MOITV.kh@SD
 SEATV.kh@SD
 TVK.kh@SD
 TVK2.kh@SD
+ABN.kr@SD
 BBSTV.kr@SD
 BTN불교TV.kr
 FGTV.kr@SD
@@ -687,11 +692,13 @@ HLATDTV.kr@SD
 HLDRDTV.kr@SD
 HLCGDTV.kr@SD
 HLKJDTV.kr@SD
+HLDQDTV.kr@SD
 HLDHDTV.kr@SD
 HLDPDTV.kr@SD
 TBSTV.kr@SD
 TVCHOSUN2.kr
 CWIN.hk
+RTHKTV31.hk@SD
 SEYT.hk
 SMUS.hk
 SSPT.hk
