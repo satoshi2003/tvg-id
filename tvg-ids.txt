@@ -23,6 +23,7 @@ IkmLXvBfVv0
 ZpHT1YhLqqM
 Os6P7DpP-sw
 pR-me-UwxX0
+NMiTPF0T9Rc
 tr77RbnfYIU
 OxQQsIvJTTU
 tU2bRjRZx20
@@ -144,7 +145,6 @@ youtv
 30AMusic.us@SD
 KMBYLD275.us@SD
 Brit.Asia.in
-CMCTV.hr@SD
 Deluxe.Dance.de
 Deluxe.Lounge.de
 DELUXE.MUSIC.de
@@ -382,6 +382,7 @@ afnhd
 GB3200005SO
 GB3200006AZ
 AutoTV@HD_2
+BBCAmerica.us@East
 bbcearth
 99951231
 plex.tv.Impossible.-.Quiz.Show.plex
@@ -420,8 +421,8 @@ fashionhd
 FashionTVParisLOriginal.fr@SD
 FashionTVSecrets.fr@HD
 KVCRDT242.us@SD
+FortunaTV.tr@SD
 france_24
-GakinoTsukaiEnglishSubs@HD
 Game.Show.Network.HD.us2
 GlobalFashionChannel.us@SD
 plex.tv.Grit.Xtra.plex
@@ -569,6 +570,7 @@ Futbol.tj
 plex.tv.GLORY.Kickboxing.plex
 GoalTV
 63a0e33a45264d000850ed7e
+GolfChannelLatinAmerica.us
 GolfNetwork@HD
 plex.tv.GOLFPASS.plex
 GolfZone.pl@SD
@@ -667,24 +669,24 @@ IT:.Film.Top.-.Rakuten TV.TV.be
 RakutenTVTopMovies.es@Spain
 UK:.Top.Movies.-.Rakuten TV.TV.be
 CTV9.kh@SD
+MOITV.kh@SD
 SEATV.kh@SD
 TVK.kh@SD
 TVK2.kh@SD
-ABN.kr@SD
 BBSTV.kr@SD
 BTN불교TV.kr
 FGTV.kr@SD
 KCTV.kr@SD
+HLANDTV.kr@SD
 HLAODTV.kr@SD
 HLCQDTV.kr@SD
 HLAQDTV.kr@SD
+HLAJDTV.kr@SD
 HLAMDTV.kr@SD
 HLATDTV.kr@SD
-M&M.kr
 HLDRDTV.kr@SD
 HLCGDTV.kr@SD
 HLKJDTV.kr@SD
-HLDQDTV.kr@SD
 HLDHDTV.kr@SD
 HLDPDTV.kr@SD
 TBSTV.kr@SD
@@ -880,7 +882,6 @@ match-boets
 1487
 3357
 400001
-2044
 300110
 1900
 2415
@@ -917,6 +918,7 @@ FirstMusicChannelRussia.by@SD
 300097
 2235
 1433
+1003
 2366
 595
 326
