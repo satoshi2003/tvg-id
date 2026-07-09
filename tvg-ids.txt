@@ -13,7 +13,6 @@ SJ4eHPK5g58
 z93hM-rXG_o
 WrQdB7fezn4
 mQ_IHtYueCM
-lvq_4LGjk-U
 ZH_FKEoA2U8
 b-bK2Vn3D38
 9UMxZofMNbA
@@ -32,6 +31,7 @@ tU2bRjRZx20
 v4YI2KEnhik
 h5N3ue1ozUY
 B87d3xc0s5U
+iSyBBDP2_yw
 SORD03t7nlo
 LfCMgram4UU
 4v3pkriGUtQ
@@ -43,6 +43,7 @@ t4e7wy7Niaw
 87FT3jYDvuc
 P0wjZFGu6io
 HCEqojdt4sw
+q4wT_Fyfn1U
 B-eJZV_ZvIQ
 WnCfvAMM9eY
 Ukyd5pBfJjM
@@ -142,6 +143,7 @@ qpvnhd
 vietnamtoday
 youtv
 9XM.in@SD
+30AMusic.us@SD
 KMBYLD275.us@SD
 Brit.Asia.in
 CMCTV.hr@SD
@@ -151,7 +153,6 @@ DELUXE.MUSIC.de
 Deluxe.Rap.de
 US39000038W
 KpopMix.ar@SD
-KpopTVPlay.br@SD
 4653
 musicbox
 MusicBoxClassic.cz@SD
@@ -187,7 +188,6 @@ BabyFirst.TV.us2
 BabyTV.uk
 MrBeanAnimated.uk@FR
 cbeebies
-5f1aca0b4e448e00075e7c5e
 64666345f3f5b1000882bfb4
 Cartoon_Classics
 boomerang
@@ -216,7 +216,6 @@ PBSKidsPacific.us@SD
 USBA2300001S8
 68b5a97fc8ef6afa31138718
 5ff609de50ab210008025c1b
-TomAndJerry.do@HD
 toonamiaftermath-east
 toonamiaftermath-west
 plex.tv.Toon.Goggles.plex
@@ -225,7 +224,6 @@ plex.tv.TG.Junior.plex
 647f8d22a2fc3fadb4721685-6617f52f0049fcb8e2b0d5b8
 ZooMoo.us2
 24.Hour.Free.Movies.distro
-30ATVClassicMovies.us@SD
 5e20b730f2f8d5003d739db7-66be944f8711311880995280
 562b0413f28e57899e3542b71ae5443a
 AmericanHorrors.us@SD
@@ -464,18 +462,10 @@ KaloopyTV.us@SD
 kbsworld
 ed1ad60fa9a05f34bf5d4e8b09460d6b
 kix
-KoreanCentralTelevision.kp@HD
 KStoriesbyCJENM@HD
-Latina.pe@SD
-LatinoChannelTV.us@HD
 700418
 Love.The.Planet.es
-MagnavisionTV.uk@SD
 6430aa45fc3be5947780904e-6827c34ca5c6e573c6904444
-KSNV31.us@HD
-KCRATV581.us@HD
-KOBDT1.us@SD
-KSBY61.us@HD
 NBCLX.us@SD
 UNIVERSO.HD.us2
 NDTV24x7.in@SD
@@ -557,7 +547,6 @@ BEKSports.us
 955058d03806e22dbb37bf1ee8d681a1
 Bleav.Football.distro
 CazeTV.br
-5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd
 5e9f2c05172a0f0007db4786
 ČT.sport.cz
 64b67f0424ade50008a3be17
@@ -576,7 +565,6 @@ NO:.FloHockey.24/7.be
 58e6bfd1c4819af32ead547dbc82e1f8
 FoosballTV@HD
 FOXSports@HD
-FoxSports.ar@SD
 plex.tv.FTF.Sports.plex
 plex.tv.FUEL.TV.plex
 Futbol.tj
@@ -611,8 +599,6 @@ LN_DAF8DC73-29E5-458C-87E1-8421786CBFD9
 mjh-sky-racing-1
 mjh-sky-racing-2
 IT:.Sport.Italia.be
-cg_spotvhd
-dr_spotv2hd
 plex.tv.Stadium.plex
 STAR.SPORTS.1.HINDI.in
 plex.tv.Strongman.Champions.plex
@@ -690,6 +676,7 @@ ABN.kr@SD
 BBSTV.kr@SD
 BTN불교TV.kr
 FGTV.kr@SD
+KBSNSports.kr
 KCTV.kr@SD
 HLANDTV.kr@SD
 HLAODTV.kr@SD
@@ -698,16 +685,19 @@ HLAQDTV.kr@SD
 HLAJDTV.kr@SD
 HLAMDTV.kr@SD
 HLATDTV.kr@SD
+M&M.kr
 HLDRDTV.kr@SD
 HLCGDTV.kr@SD
 HLKJDTV.kr@SD
 HLDQDTV.kr@SD
 HLDHDTV.kr@SD
+SBSSports.kr
 HLDPDTV.kr@SD
+SPOTV.kr
+SPOTV2.kr
 TBSTV.kr@SD
 TVCHOSUN2.kr
 CWIN.hk
-RTHKTV31.hk@SD
 SEYT.hk
 SMUS.hk
 SSPT.hk
