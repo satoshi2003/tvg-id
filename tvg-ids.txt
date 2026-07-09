@@ -32,7 +32,6 @@ tU2bRjRZx20
 v4YI2KEnhik
 h5N3ue1ozUY
 B87d3xc0s5U
-r0EQDG7kEW4
 SORD03t7nlo
 LfCMgram4UU
 4v3pkriGUtQ
@@ -65,7 +64,6 @@ DnoTqKe04Rc
 V0QU80nRWIE
 JVocS7Yftw8
 AJsBdAToLLo
-OiIrRh1I46A
 6uddGul0oAc
 HWj1FwivQW8
 EUuinU_fueY
@@ -215,6 +213,7 @@ PBSKidsMountain.us@SD
 PBSKidsPacific.us@SD
 66ebf4a88131f10008b74739
 697a2f8b3991484f03064614
+USBA2300001S8
 68b5a97fc8ef6afa31138718
 5ff609de50ab210008025c1b
 TomAndJerry.do@HD
@@ -315,6 +314,7 @@ GBAJ400042T1
 695c32e61ca20bb8ca802eb9
 634dacf51d90320007fcd5fa
 The.Film.Detective.us2
+62fb6da41afad500077e9178
 TopMoviesPolska.pl@SD
 6430aa45fc3be5947780904e-69a1f7228d9f2822f6f50637
 DE:.Top.Serien.be
@@ -428,7 +428,6 @@ DuckHuntingTV.us@SD
 dw
 Estrella.TV.distro
 Euronews
-Euronews.au
 FashionLifeStyle.ru@SD
 fashionhd
 FashionTVParisLOriginal.fr@SD
@@ -480,10 +479,8 @@ KSBY61.us@HD
 NBCLX.us@SD
 UNIVERSO.HD.us2
 NDTV24x7.in@SD
-NetmaxTV.gr@SD
 plex.tv.Newsmax2.plex
 Newsmax.TV.distro
-NHKWorldJapan.jp@HD
 nhkworld
 OhMuangLaoTV.la@SD
 LN_23F40B93-4CDF-46AC-A617-60935E7562CC
