@@ -10,6 +10,7 @@ vXTwl4YyY5A
 yO-pa5XlGlA
 SJ4eHPK5g58
 0U6Rg_SQC9E
+GVr0SmS2nwM
 z93hM-rXG_o
 WrQdB7fezn4
 mQ_IHtYueCM
@@ -22,6 +23,7 @@ IkmLXvBfVv0
 ZpHT1YhLqqM
 Os6P7DpP-sw
 pR-me-UwxX0
+EdxpEYl-wu4
 tr77RbnfYIU
 OxQQsIvJTTU
 tU2bRjRZx20
@@ -32,6 +34,7 @@ h5N3ue1ozUY
 B87d3xc0s5U
 iSyBBDP2_yw
 SORD03t7nlo
+ZA2VB7OdgJY
 LfCMgram4UU
 4v3pkriGUtQ
 J0bO_dGUuf0
@@ -144,6 +147,7 @@ youtv
 9XM.in@SD
 30AMusic.us@SD
 KMBYLD275.us@SD
+Brit.Asia.in
 CMCTV.hr@SD
 Deluxe.Dance.de
 Deluxe.Lounge.de
@@ -166,7 +170,6 @@ NOW.80s.uk
 NOW.90s00s.uk
 Now.Rock.uk
 PlayTV.br@SD
-PlayTV.cm@SD
 PlayTV.gr@SD
 ReteTVItalia.it@SD
 RetroPlus2.cl@SD
@@ -231,7 +234,6 @@ ZooMoo.us2
 AmericanHorrors.us@SD
 AsianBox.mn
 6a1610bebdf296985fd95603-5eea605474085f0040ddc767
-AuroraMediaFilms.gt@SD
 axnhd
 AXN.es
 AXN.Movies.HD.pt
@@ -244,7 +246,6 @@ BIZCinema.uz@SD
 boxhits
 boxmovie1
 Canal+.Cinéma(s).fr
-CANAL+.Film.HD.pl
 CHARGE!.us2
 400000028
 Cinema.HD.mn
@@ -322,7 +323,6 @@ whiplash
 whiplashcinema
 whiplash2
 99991745
-XPTV2.es@SD
 YTATV.us@SD
 GBBD1100013BJ
 6430aa45fc3be5947780904e-6490e44818a55242eea95993
@@ -428,12 +428,12 @@ Estrella.TV.distro
 Euronews
 FashionLifeStyle.ru@SD
 fashionhd
+FashionTVParisLOriginal.fr@SD
 FashionTVSecrets.fr@HD
 KVCRDT242.us@SD
 FortunaTV.tr@SD
 france_24
 GakinoTsukaiEnglishSubs@HD
-Game.Show.Network.HD.us2
 GlobalFashionChannel.us@SD
 plex.tv.Grit.Xtra.plex
 HalaLondon.uk@SD
@@ -461,6 +461,7 @@ KaloopyTV.us@SD
 kbsworld
 ed1ad60fa9a05f34bf5d4e8b09460d6b
 kix
+KoreanCentralTelevision.kp@HD
 KStoriesbyCJENM@HD
 LatinoChannelTV.us@HD
 700418
@@ -472,7 +473,6 @@ NDTV24x7.in@SD
 plex.tv.Newsmax2.plex
 Newsmax.TV.distro
 nhkworld
-OhMuangLaoTV.la@SD
 LN_23F40B93-4CDF-46AC-A617-60935E7562CC
 outdoorhd
 Outside.distro
@@ -586,7 +586,6 @@ KSA.sports.1.ae
 KSA.sports.2.HD.ae
 KSA.Sports.3.HD.ae
 2326
-Nautical.Channel.pl
 NBC.Sports.Now.us2
 OmanSportsTV.om
 OvacionTV.pe
@@ -598,6 +597,7 @@ plex.tv.PGA.TOUR.plex
 Redbull.Dummy.us
 LN_DAF8DC73-29E5-458C-87E1-8421786CBFD9
 mjh-sky-racing-1
+mjh-sky-racing-2
 IT:.Sport.Italia.be
 plex.tv.Stadium.plex
 STAR.SPORTS.1.HINDI.in
@@ -674,17 +674,14 @@ TVK.kh@SD
 TVK2.kh@SD
 ABN.kr@SD
 BBSTV.kr@SD
-BTN불교TV.kr
 FGTV.kr@SD
 KCTV.kr@SD
 HLANDTV.kr@SD
 HLAODTV.kr@SD
 HLCQDTV.kr@SD
 HLAQDTV.kr@SD
-HLAJDTV.kr@SD
 HLAMDTV.kr@SD
 HLATDTV.kr@SD
-M&M.kr
 HLDRDTV.kr@SD
 HLCGDTV.kr@SD
 HLKJDTV.kr@SD
@@ -694,7 +691,6 @@ HLDPDTV.kr@SD
 TBSTV.kr@SD
 TVCHOSUN2.kr
 CWIN.hk
-RTHKTV31.hk@SD
 SEYT.hk
 SMUS.hk
 SSPT.hk
@@ -836,6 +832,7 @@ TsargradTV.ru@SD
 2273
 1991
 100002
+102
 2300
 528
 3209
@@ -945,7 +942,7 @@ FirstMusicChannelRussia.by@SD
 222
 100089
 5369
-1556
+104
 2383
 1800
 2338
