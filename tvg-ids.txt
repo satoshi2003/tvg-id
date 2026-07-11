@@ -198,9 +198,7 @@ CowboyMovieChannel@HD
 6a1610bebdf296985fd95603-5eea605674085f0040ddc7a6
 DiscoverFilm.uk@SD
 d93912b4b21158fd95af2ceb8979c586
-FOX.pl
 6a1610bebdf296985fd95603-5efe1de7e0b3f5003f5d9f8e
-Great.American.Faith.and.Living.us2
 Great.American.Family.HD.us2
 6a1610bebdf296985fd95603-63489a771159f6a5ce819b7b
 GroovyTV.gr@SD
@@ -427,7 +425,6 @@ Surfing+@HD
 DE:.Terra.Mater.WILD.be
 tlchd
 6430aa45fc3be5947780904e-6720049929bcfe7b69d4feff
-TravelBoxBrazil.br@SD
 TRT.1.HD.tr
 TRT.News
 TRT.World.HD.tr
@@ -441,11 +438,13 @@ PL:.Viasat.Explore.Classic.be
 UK:.Waterbear.be
 plex.tv.WildEarth.plex
 whiplashwindowtv
+Wion.in
 6a1610bebdf296985fd95603-6515fb621fc969615e69d16e
 woman
 Xplore.gr@SD
 f230a0c3f7ba5804b42d88f5d3c20002
 6000a6f4c3f8550008fc9b91
+ZEE.NEWS.in
 mjh-radio-2gb
 mjh-radio-ih-6312
 mjh-radio-ih-10143
@@ -647,7 +646,6 @@ plex.tv.FanDuel.TV.Extra.plex
 FBTV.tr
 FIFAPlus.uk
 FIFAPlusWomen.uk
-FightBox.HD.pl
 NO:.FloHockey.24/7.be
 58e6bfd1c4819af32ead547dbc82e1f8
 FoosballTV@HD
@@ -661,7 +659,6 @@ GoalTV
 GolfChannelLatinAmerica.us
 GolfNetwork@HD
 plex.tv.GOLFPASS.plex
-GolfZone.pl@SD
 PL:.Hard.Knocks.Fighting.Championship.be
 HomerunTV
 HoopTV@HD
@@ -802,12 +799,10 @@ HLDRDTV.kr@SD
 HLCGDTV.kr@SD
 HLKJDTV.kr@SD
 HLDQDTV.kr@SD
-HLDHDTV.kr@SD
 HLDPDTV.kr@SD
 TBSTV.kr@SD
 TVCHOSUN2.kr
 CWIN.hk
-RTHKTV31.hk@SD
 SEYT.hk
 SMUS.hk
 SSPT.hk
@@ -1118,6 +1113,7 @@ iptv36.ch7
 iptv36.tv5
 ThaiChannel8.th
 CoolChannel.th@SD
+DOPAChannel.th
 GMM 25.th
 MCOT HD.th
 iptv36.nation
@@ -1255,7 +1251,6 @@ KissKissTV.it@SD
 LaCNews24.it@SD
 LaCTV.it@SD
 Rai3.it
-RaiGulp.it
 Rete8.it@SD
 SanMarinoRTV.sm
 SanMarinoRTVSport.sm
