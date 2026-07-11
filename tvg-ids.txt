@@ -86,10 +86,9 @@ Deluxe.Lounge.de
 DELUXE.MUSIC.de
 Deluxe.Rap.de
 US39000038W
-KpopTVPlay.br@SD
+KpopMix.ar@SD
 4653
 musicbox
-MusicBoxBrazil.br@SD
 MUSIC.BOX.CLASSIC.musicbox
 MUSIC.BOX.DANCE.musicbox
 MUSIC.BOX.HITS.musicbox
@@ -128,6 +127,8 @@ Cartoon_Classics
 boomerang
 cartoonhd
 62f3e8ad2a8e8000077b013d
+68b17414c23bb80b3c1d5bb5
+62e951258a26d40007b3034c
 685a996c7c4f2ad40cb4f276
 68e8fd7c3ede4398bc69af93
 Dreambox.mn
@@ -139,6 +140,11 @@ USBC44000072I
 plex.tv.KidsFlix.plex
 60fb01a24795a6000762fe83
 b5cde121f98257329346020e2a60295a
+67f3eb800a1beb98767ca748
+5ca673e0d0bd6c2689c94ce3
+5f0d668b872e4400073acc68
+5ede448d3d50590007a4419e
+5ca6748a37b88b269472dad9
 5f7790b3ed0c88000720b241
 PBSKids.us@SD
 PBSKidsAlaska.us@SD
@@ -146,6 +152,7 @@ PBSKidsHawaii.us@SD
 PBSKidsMountain.us@SD
 PBSKidsPacific.us@SD
 66ebf4a88131f10008b74739
+677d93afe650a700081e5f18
 697a2f8b3991484f03064614
 USBA2300001S8
 68b5a97fc8ef6afa31138718
@@ -354,6 +361,7 @@ FashionTVSecrets.fr@HD
 KVCRDT242.us@SD
 FortunaTV.tr@SD
 france_24
+GakinoTsukaiEnglishSubs@HD
 Game.Show.Network.HD.us2
 GlobalFashionChannel.us@SD
 HalaLondon.uk@SD
@@ -372,6 +380,7 @@ InTrouble.nl@SD
 GBBA220000751
 USBA300023G8
 IranInternational.uk@SD
+IT600001L6
 IuniorTV.it@SD
 KaloopyTV.us@SD
 kbsworld
@@ -749,6 +758,28 @@ mytv801
 mytv802
 mytv803
 mytv804
+360-hoa-ngu
+360-k-drama
+360-phim-kinh-dien
+hoat-hinh
+phim-au-my
+phim-viet
+tv360-1
+tv360-2
+tv360-3
+tv360-4
+tv360-5
+tv360-6
+tv360-7
+tv360-8
+tv360-9
+tv360-10
+tv360-11
+tv360-12
+tv360-13
+tv360-14
+tv360-15
+vtvcab-2-phim-viet-hd
 ninochannel
 sglive
 CTV9.kh@SD
@@ -1087,7 +1118,6 @@ iptv36.ch7
 iptv36.tv5
 ThaiChannel8.th
 CoolChannel.th@SD
-DOPAChannel.th
 GMM 25.th
 MCOT HD.th
 iptv36.nation
