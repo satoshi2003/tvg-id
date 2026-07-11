@@ -86,7 +86,6 @@ Deluxe.Lounge.de
 DELUXE.MUSIC.de
 Deluxe.Rap.de
 US39000038W
-KpopMix.ar@SD
 KpopTVPlay.br@SD
 4653
 musicbox
@@ -96,7 +95,6 @@ MUSIC.BOX.DANCE.musicbox
 MUSIC.BOX.HITS.musicbox
 MUSIC.BOX.SEXY.musicbox
 MusicIndia.in@SD
-MusicInformationChannel.id@SD
 NOW.70s.uk
 NOW.80s.uk
 NOW.90s00s.uk
@@ -179,6 +177,7 @@ BIZCinema.uz@SD
 boxhits
 boxmovie1
 Canal+.Cinéma(s).fr
+CANAL+.Film.HD.pl
 CHARGE!.us2
 400000028
 Cinema.HD.mn
@@ -253,9 +252,6 @@ TopMoviesPolska.pl@SD
 DE:.Top.Serien.be
 tvbvn
 warnertvhd
-whiplash
-whiplashcinema
-whiplash2
 99991745
 XPTV2.es@SD
 YTATV.us@SD
@@ -329,18 +325,14 @@ afnhd
 GB3200005SO
 GB3200006AZ
 AutoTV@HD_2
-BBCAmerica.us@East
 bbcearth
-99951231
 plex.tv.Impossible.-.Quiz.Show.plex
 bbclifestyle
 BIZTV.uz@SD
-plex.tv.Bounce.XL.plex
 Bravo.+1.nz
 CGTNDocumentary.cn
 ChileChannel.cl@SD
 China.Travel.distro
-Circle.Country.us2
 CNA.(HD).sg
 UK:.CNA.Originals.be
 cnbc
@@ -349,17 +341,11 @@ CostaRicaChannel.cr@SD
 Cowboy.Channel.distro
 Das.Erste.de
 davinci
-plex.tv.Deal.Or.No.Deal.plex
 Discovering.China.distro
 discoveryhd
 discoveryasiahd
 dmax
-plex.tv.Documentary+.plex
-5bee1a7359ee03633e780238
-DroneTV.distro
-DuckHuntingTV.us@SD
 dw
-Estrella.TV.distro
 Euronews
 FashionLifeStyle.ru@SD
 fashionhd
@@ -367,30 +353,25 @@ FashionTVParisLOriginal.fr@SD
 FashionTVSecrets.fr@HD
 KVCRDT242.us@SD
 FortunaTV.tr@SD
-Fox.Business.HD.us2
 france_24
+Game.Show.Network.HD.us2
 GlobalFashionChannel.us@SD
-plex.tv.Grit.Xtra.plex
 HalaLondon.uk@SD
 hgtv
 plex.tv.Highway.Thru.Hell.plex
 Historia.es
 historyhd
-History.us@East
-History2LatinAmerica.us@Panregional
 6a1610bebdf296985fd95603-5f74cf83ffbe690040689f50
 UK:.History.Hunters.be
 plex.tv.History.&amp;.Warfare.plex
 USBD4200009Y4
 ¡HOLA!.TV.es
-USBC2400015DO
 671b4e47daad7f000868b840
 USBA300022JX
 InTrouble.nl@SD
 GBBA220000751
 USBA300023G8
 IranInternational.uk@SD
-IT600001L6
 IuniorTV.it@SD
 KaloopyTV.us@SD
 kbsworld
@@ -412,7 +393,6 @@ OhMuangLaoTV.la@SD
 LN_23F40B93-4CDF-46AC-A617-60935E7562CC
 outdoorhd
 Outside.distro
-PL:.People.Are.Awesome.be
 PETC.hk
 Pitaara.in
 64305451fc3be5947773c339-671ab1dc79fce66281154344
@@ -426,7 +406,6 @@ São.Paulo/SP.Record.News.br
 GBBD4900001RG
 Right.Now.Tv.distro
 plex.tv.Robot.Wars.by.Mech+.plex
-RTViUS.us@SD
 USBB52000022Q
 5f21ea08007a49000762d349
 eb1dbd690001553eacdf32d7b155b933
@@ -444,7 +423,6 @@ TRT.1.HD.tr
 TRT.News
 TRT.World.HD.tr
 True.Crime.uk
-True.History.distro
 tv5monde
 tv5.info
 tv5.style
@@ -459,8 +437,172 @@ woman
 Xplore.gr@SD
 f230a0c3f7ba5804b42d88f5d3c20002
 6000a6f4c3f8550008fc9b91
-ninochannel
-sglive
+mjh-radio-2gb
+mjh-radio-ih-6312
+mjh-radio-ih-10143
+mjh-radio-ih-10144
+mjh-radio-ih-10771
+mjh-radio-ih-9246
+mjh-radio-ih-6324
+24.7.Dummy.us
+no_epg
+KIIS
+181Beat
+181Buzz
+mjh-radio-ih-9039
+mjh-radio-ih-8677
+mjh-radio-abc-mid-north-coast
+AI FM
+mjh-radio-ih-9600
+mjh-radio-ih-7421
+no_epg_music
+mjh-radio-ih-11259
+avtoradio
+mjh-radio-rv-24-7-bbcworld-353a1e
+mjh-radio-ih-7308
+mjh-radio-ih-11363
+mjh-radio-ih-6179
+mjh-radio-plains-fm
+mjh-radio-ih-6178
+mjh-radio-ih-11312
+mjh-radio-ih-9661
+mjh-radio-ih-8823
+mjh-radio-ih-10135
+retro-fm
+mjh-radio-ih-6329
+ERA
+ExaFM
+mjh-radio-ih-6311
+mjh-radio-ih-9472
+GEGAR
+mjh-radio-ih-10073
+mjh-radio-ih-6186
+GOXUAN
+mjh-radio-ih-9680
+HITZ
+mjh-radio-ih-6314
+HOT97
+mjh-radio-ih-7222
+mjh-radio-ih-10743
+mjh-radio-ih-6902
+mjh-radio-ih-6315
+Johor FM
+Joya937
+KCRW
+KeBuenaMX
+Kedah FM
+Kelantan FM
+KEXP
+mjh-radio-ih-10069
+mjh-radio-ih-6185
+mjh-radio-ih-7050
+mjh-radio-ih-6941
+KLFM
+radio-shanson
+mjh-radio-ih-9032
+KROQ
+LaBestiaGrupera
+Labuan FM
+LaMejorMX
+mjh-radio-ih-9952
+LITE
+Los40MX
+Melaka FM
+MELODY
+Minnal FM
+MIX
+mjh-radio-rv-morefm-01a9f6
+mjh-radio-rv-morefm-a05e6d
+Mutiara FM
+MVSNoticias
+mjh-radio-ih-8866
+MY
+Nasional FM
+Negeri FM
+mjh-radio-ih-8272
+nhk|fm
+nhk|radio1
+nhk|radio2
+mjh-radio-ih-9436
+NPR
+Pahang FM
+Perak FM
+Perlis FM
+mjh-radio-ih-9934
+mjh-radio-ih-9933
+mjh-radio-ih-9373
+RAAGA
+mjh-radio-ih-9593
+Asyik FM
+mjh-radio-ih-9364
+RadioDisneyMX
+europa-plus-radio
+RadioFormula
+mjh-radio-ih-6374
+Radio Klasik
+radio-mayak
+mjh-radio-ih-9984
+radio-rossii
+radio-strana-fm-tv
+vesti-fm
+mjh-radio-rv-rnzconcert-98091b
+mjh-radio-rv-rnznational247-eec039
+mjh-radio-rv-rnzpacific-34924e
+Sabah FM
+VFM
+Sarawak FM
+mjh-radio-ih-6998
+mjh-radio-ih-7025
+mjh-radio-ih-7026
+mjh-radio-ih-7030
+mjh-radio-ih-7029
+mjh-radio-ih-10742
+mjh-radio-ih-7028
+mjh-radio-ih-7031
+Selangor FM
+深圳音乐广播
+SINAR
+mjh-radio-sky-sports-radio
+mjh-radio-smoothfm-95-3
+mjh-radio-ih-8400
+mjh-radio-ih-9353
+mjh-radio-ih-7354
+mjh-radio-ih-9047
+mjh-radio-ih-8665
+mjh-radio-rv-rnztahi247-4ee040
+Terengganu FM
+mjh-radio-ih-6492
+mjh-radio-ih-6794
+mjh-radio-ih-6793
+mjh-radio-ih-6327
+mjh-radio-rv-thebreeze-befc17
+mjh-radio-rv-thebreeze-9dcd9e
+TheCurrent
+mjh-radio-ih-6205
+mjh-radio-ih-6197
+mjh-radio-ih-9056
+mjh-radio-ih-8876
+mjh-radio-ih-9748
+Traxx FM
+mjh-radio-ih-9660
+no_epg_news
+mjh-radio-ih-9690
+mjh-radio-ih-8865
+mjh-radio-ih-9689
+mjh-radio-ih-9939
+mjh-radio-ih-10632
+WABC
+WBGO
+mjh-radio-ih-9243
+mjh-radio-ih-10474
+mjh-radio-ih-9750
+WNYC
+mjh-radio-ih-9195
+WRadioMX
+Z100
+ZAYAN
+mjh-radio-ih-9473
+30AGolfKingdom.us@SD
 plex.tv.ACCDN.plex
 AceTV@HD
 ACI.Sport.Tv.it
@@ -521,6 +663,7 @@ KSA.sports.1.ae
 KSA.sports.2.HD.ae
 KSA.Sports.3.HD.ae
 2326
+Nautical.Channel.pl
 NBC.Sports.Now.us2
 OmanSportsTV.om
 OvacionTV.pe
@@ -602,11 +745,18 @@ RakutenTVTopMovies.es@Germany
 IT:.Film.Top.-.Rakuten TV.TV.be
 RakutenTVTopMovies.es@Spain
 UK:.Top.Movies.-.Rakuten TV.TV.be
+mytv801
+mytv802
+mytv803
+mytv804
+ninochannel
+sglive
 CTV9.kh@SD
 MOITV.kh@SD
 SEATV.kh@SD
 TVK.kh@SD
 TVK2.kh@SD
+ABN.kr@SD
 BBSTV.kr@SD
 BTN불교TV.kr
 FGTV.kr@SD
@@ -614,10 +764,9 @@ KCTV.kr@SD
 HLANDTV.kr@SD
 HLAODTV.kr@SD
 HLCQDTV.kr@SD
-HLAJDTV.kr@SD
+HLAQDTV.kr@SD
 HLAMDTV.kr@SD
 HLATDTV.kr@SD
-M&M.kr
 HLDRDTV.kr@SD
 HLCGDTV.kr@SD
 HLKJDTV.kr@SD
@@ -627,6 +776,7 @@ HLDPDTV.kr@SD
 TBSTV.kr@SD
 TVCHOSUN2.kr
 CWIN.hk
+RTHKTV31.hk@SD
 SEYT.hk
 SMUS.hk
 SSPT.hk
@@ -653,11 +803,23 @@ LN_F67E869E-CCB4-49A8-973F-90A601DBA0DB
 3580b15015379c4256440b0e119d46ed
 d748045d77105901b8e25fcc34aa9e2f
 654932fa4d6d8f00084c4723
+BBCAmerica.us@East
+99951231
 plex.tv.BET.x.Tyler.Perry.Comedy.plex
 plex.tv.BET.x.Tyler.Perry.Drama.plex
+plex.tv.Bounce.XL.plex
 6549310a53fc97000838fcc9
+Circle.Country.us2
+plex.tv.Deal.Or.No.Deal.plex
 6400f731d200410008f9b339
+plex.tv.Documentary+.plex
+5bee1a7359ee03633e780238
+DroneTV.distro
+DuckHuntingTV.us@SD
+Estrella.TV.distro
 640a68880e884c0009979cc2
+plex.tv.Grit.Xtra.plex
+USBC2400015DO
 5f8a02476b72230007e62b7d
 63335b193583440007c859fb
 6036e7c385749f00075dbd3b
@@ -672,6 +834,9 @@ TopStoriesbyNewsy.us@SD
 65a9b20f0c7ff50008d3a3b6
 656538f8954b020008d389db
 6532e7fa045c3d0008514ca7
+whiplash
+whiplashcinema
+whiplash2
 1503
 689
 300001
