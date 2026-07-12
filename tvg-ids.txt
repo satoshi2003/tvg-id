@@ -159,7 +159,6 @@ USBA2300001S8
 68b5a97fc8ef6afa31138718
 5ff609de50ab210008025c1b
 TomAndJerry.do@HD
-toonamiaftermath-east
 toonamiaftermath-west
 plex.tv.Toon.Goggles.plex
 plex.tv.TG.Junior.plex
@@ -189,6 +188,7 @@ Canal+.Cinéma(s).fr
 CHARGE!.us2
 400000028
 Cinema.HD.mn
+cinemaworldhd
 cinemaxhd
 79eb3a43680e5a9f9689fee074502a3b
 Sony.Cine.us2
@@ -199,7 +199,6 @@ CowboyMovieChannel@HD
 6a1610bebdf296985fd95603-5eea605674085f0040ddc7a6
 DiscoverFilm.uk@SD
 d93912b4b21158fd95af2ceb8979c586
-FOX.pl
 6a1610bebdf296985fd95603-5efe1de7e0b3f5003f5d9f8e
 Great.American.Faith.and.Living.us2
 Great.American.Family.HD.us2
@@ -362,6 +361,7 @@ FashionTVSecrets.fr@HD
 KVCRDT242.us@SD
 FortunaTV.tr@SD
 france_24
+GakinoTsukaiEnglishSubs@HD
 Game.Show.Network.HD.us2
 GlobalFashionChannel.us@SD
 HalaLondon.uk@SD
@@ -648,7 +648,6 @@ plex.tv.FanDuel.TV.Extra.plex
 FBTV.tr
 FIFAPlus.uk
 FIFAPlusWomen.uk
-FightBox.HD.pl
 NO:.FloHockey.24/7.be
 58e6bfd1c4819af32ead547dbc82e1f8
 FoosballTV@HD
@@ -662,7 +661,6 @@ GoalTV
 GolfChannelLatinAmerica.us
 GolfNetwork@HD
 plex.tv.GOLFPASS.plex
-GolfZone.pl@SD
 PL:.Hard.Knocks.Fighting.Championship.be
 HomerunTV
 HoopTV@HD
@@ -805,10 +803,10 @@ HLCGDTV.kr@SD
 HLKJDTV.kr@SD
 HLDQDTV.kr@SD
 HLDHDTV.kr@SD
+HLDPDTV.kr@SD
 TBSTV.kr@SD
 TVCHOSUN2.kr
 CWIN.hk
-RTHKTV31.hk@SD
 SEYT.hk
 SMUS.hk
 SSPT.hk
@@ -1254,7 +1252,7 @@ Canale7.it@SD
 KissKissTV.it@SD
 LaCNews24.it@SD
 LaCTV.it@SD
-RaiGulp.it
+Rai3.it
 Rete8.it@SD
 SanMarinoRTV.sm
 SanMarinoRTVSport.sm
