@@ -77,6 +77,7 @@ qpvnhd
 vietnamtoday
 youtv
 9XM.in@SD
+30AMusic.us@SD
 KMBYLD275.us@SD
 Brit.Asia.in
 CMCTV.hr@SD
@@ -86,7 +87,6 @@ DELUXE.MUSIC.de
 Deluxe.Rap.de
 US39000038W
 KpopMix.ar@SD
-KpopTVPlay.br@SD
 4653
 musicbox
 MUSIC.BOX.CLASSIC.musicbox
@@ -427,6 +427,7 @@ Surfing+@HD
 DE:.Terra.Mater.WILD.be
 tlchd
 6430aa45fc3be5947780904e-6720049929bcfe7b69d4feff
+TRT.1.HD.tr
 TRT.News
 TRT.World.HD.tr
 True.Crime.uk
@@ -804,7 +805,6 @@ HLCGDTV.kr@SD
 HLKJDTV.kr@SD
 HLDQDTV.kr@SD
 HLDHDTV.kr@SD
-HLDPDTV.kr@SD
 TBSTV.kr@SD
 TVCHOSUN2.kr
 CWIN.hk
@@ -1254,7 +1254,6 @@ Canale7.it@SD
 KissKissTV.it@SD
 LaCNews24.it@SD
 LaCTV.it@SD
-Rai3.it
 RaiGulp.it
 Rete8.it@SD
 SanMarinoRTV.sm
