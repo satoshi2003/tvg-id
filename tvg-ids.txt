@@ -77,7 +77,6 @@ qpvnhd
 vietnamtoday
 youtv
 9XM.in@SD
-30AMusic.us@SD
 KMBYLD275.us@SD
 Brit.Asia.in
 CMCTV.hr@SD
@@ -87,6 +86,7 @@ DELUXE.MUSIC.de
 Deluxe.Rap.de
 US39000038W
 KpopMix.ar@SD
+KpopTVPlay.br@SD
 4653
 musicbox
 MUSIC.BOX.CLASSIC.musicbox
@@ -94,6 +94,7 @@ MUSIC.BOX.DANCE.musicbox
 MUSIC.BOX.HITS.musicbox
 MUSIC.BOX.SEXY.musicbox
 MusicIndia.in@SD
+MusicInformationChannel.id@SD
 NOW.70s.uk
 NOW.80s.uk
 NOW.90s00s.uk
@@ -172,6 +173,7 @@ ZooMoo.us2
 AmericanHorrors.us@SD
 AsianBox.mn
 6a1610bebdf296985fd95603-5eea605474085f0040ddc767
+AuroraMediaFilms.gt@SD
 axnhd
 AXN.Black.ro
 AXN.Movies.HD.pt
@@ -184,7 +186,6 @@ BIZCinema.uz@SD
 boxhits
 boxmovie1
 Canal+.Cinéma(s).fr
-CANAL+.Film.HD.pl
 CHARGE!.us2
 400000028
 Cinema.HD.mn
@@ -198,7 +199,9 @@ CowboyMovieChannel@HD
 6a1610bebdf296985fd95603-5eea605674085f0040ddc7a6
 DiscoverFilm.uk@SD
 d93912b4b21158fd95af2ceb8979c586
+FOX.pl
 6a1610bebdf296985fd95603-5efe1de7e0b3f5003f5d9f8e
+Great.American.Faith.and.Living.us2
 Great.American.Family.HD.us2
 6a1610bebdf296985fd95603-63489a771159f6a5ce819b7b
 GroovyTV.gr@SD
@@ -359,7 +362,6 @@ FashionTVSecrets.fr@HD
 KVCRDT242.us@SD
 FortunaTV.tr@SD
 france_24
-GakinoTsukaiEnglishSubs@HD
 Game.Show.Network.HD.us2
 GlobalFashionChannel.us@SD
 HalaLondon.uk@SD
@@ -425,7 +427,6 @@ Surfing+@HD
 DE:.Terra.Mater.WILD.be
 tlchd
 6430aa45fc3be5947780904e-6720049929bcfe7b69d4feff
-TRT.1.HD.tr
 TRT.News
 TRT.World.HD.tr
 True.Crime.uk
@@ -646,6 +647,7 @@ plex.tv.FanDuel.TV.Extra.plex
 FBTV.tr
 FIFAPlus.uk
 FIFAPlusWomen.uk
+FightBox.HD.pl
 NO:.FloHockey.24/7.be
 58e6bfd1c4819af32ead547dbc82e1f8
 FoosballTV@HD
@@ -659,6 +661,7 @@ GoalTV
 GolfChannelLatinAmerica.us
 GolfNetwork@HD
 plex.tv.GOLFPASS.plex
+GolfZone.pl@SD
 PL:.Hard.Knocks.Fighting.Championship.be
 HomerunTV
 HoopTV@HD
@@ -793,16 +796,19 @@ HLANDTV.kr@SD
 HLAODTV.kr@SD
 HLCQDTV.kr@SD
 HLAQDTV.kr@SD
+HLAJDTV.kr@SD
 HLAMDTV.kr@SD
 HLATDTV.kr@SD
 HLDRDTV.kr@SD
 HLCGDTV.kr@SD
 HLKJDTV.kr@SD
 HLDQDTV.kr@SD
+HLDHDTV.kr@SD
 HLDPDTV.kr@SD
 TBSTV.kr@SD
 TVCHOSUN2.kr
 CWIN.hk
+RTHKTV31.hk@SD
 SEYT.hk
 SMUS.hk
 SSPT.hk
@@ -1102,8 +1108,6 @@ BFM2.fr@HD
 CannesLerinsTV.fr@SD
 CNews.fr@SD
 CNEWSPRIME.fr@HD
-France.2..fr
-France.5.fr
 MonteCarloDigitalTelevision.fr@HD
 iptv36.ch3
 iptv36.amarin
@@ -1251,6 +1255,7 @@ KissKissTV.it@SD
 LaCNews24.it@SD
 LaCTV.it@SD
 Rai3.it
+RaiGulp.it
 Rete8.it@SD
 SanMarinoRTV.sm
 SanMarinoRTVSport.sm
