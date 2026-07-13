@@ -87,6 +87,7 @@ DELUXE.MUSIC.de
 Deluxe.Rap.de
 US39000038W
 KpopMix.ar@SD
+KpopTVPlay.br@SD
 4653
 musicbox
 MUSIC.BOX.CLASSIC.musicbox
@@ -159,6 +160,7 @@ USBA2300001S8
 68b5a97fc8ef6afa31138718
 5ff609de50ab210008025c1b
 TomAndJerry.do@HD
+toonamiaftermath-east
 toonamiaftermath-west
 plex.tv.Toon.Goggles.plex
 plex.tv.TG.Junior.plex
@@ -199,6 +201,7 @@ CowboyMovieChannel@HD
 6a1610bebdf296985fd95603-5eea605674085f0040ddc7a6
 DiscoverFilm.uk@SD
 d93912b4b21158fd95af2ceb8979c586
+FOX.pl
 6a1610bebdf296985fd95603-5efe1de7e0b3f5003f5d9f8e
 Great.American.Faith.and.Living.us2
 Great.American.Family.HD.us2
@@ -648,6 +651,7 @@ plex.tv.FanDuel.TV.Extra.plex
 FBTV.tr
 FIFAPlus.uk
 FIFAPlusWomen.uk
+FightBox.HD.pl
 NO:.FloHockey.24/7.be
 58e6bfd1c4819af32ead547dbc82e1f8
 FoosballTV@HD
@@ -661,6 +665,7 @@ GoalTV
 GolfChannelLatinAmerica.us
 GolfNetwork@HD
 plex.tv.GOLFPASS.plex
+GolfZone.pl@SD
 PL:.Hard.Knocks.Fighting.Championship.be
 HomerunTV
 HoopTV@HD
@@ -685,6 +690,8 @@ LN_DAF8DC73-29E5-458C-87E1-8421786CBFD9
 mjh-sky-racing-1
 mjh-sky-racing-2
 IT:.Sport.Italia.be
+cg_spotvhd
+dr_spotv2hd
 plex.tv.Stadium.plex
 STAR.SPORTS.1.HINDI.in
 plex.tv.Strongman.Champions.plex
@@ -931,7 +938,6 @@ STOUChannel.th@SD
 100054
 100024
 1707
-TsargradTV.ru@SD
 55957
 5600
 324
@@ -1253,6 +1259,7 @@ KissKissTV.it@SD
 LaCNews24.it@SD
 LaCTV.it@SD
 Rai3.it
+RaiGulp.it
 Rete8.it@SD
 SanMarinoRTV.sm
 SanMarinoRTVSport.sm
