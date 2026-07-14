@@ -81,7 +81,6 @@ qpvnhd
 vietnamtoday
 youtv
 9XM.in@SD
-30AMusic.us@SD
 KMBYLD275.us@SD
 Brit.Asia.in
 CMCTV.hr@SD
@@ -91,6 +90,7 @@ DELUXE.MUSIC.de
 Deluxe.Rap.de
 US39000038W
 KpopMix.ar@SD
+KpopTVPlay.br@SD
 4653
 musicbox
 MUSIC.BOX.CLASSIC.musicbox
@@ -181,7 +181,11 @@ ZooMoo.us2
 68487fb3f212bedacf5a53e3
 5e20b730f2f8d5003d739db7-66be944f8711311880995280
 562b0413f28e57899e3542b71ae5443a
+AMC.HD.us2
+AMC+.us2
+São.Paulo/SP..AMC.br
 AmericanHorrors.us@SD
+ARTFLIXMovieClassics.us@SD
 AsianBox.mn
 6a1610bebdf296985fd95603-5eea605474085f0040ddc767
 AuroraMediaFilms.gt@SD
@@ -371,7 +375,6 @@ FashionTVSecrets.fr@HD
 KVCRDT242.us@SD
 FortunaTV.tr@SD
 france_24
-GakinoTsukaiEnglishSubs@HD
 Game.Show.Network.HD.us2
 GlobalFashionChannel.us@SD
 HalaLondon.uk@SD
@@ -811,6 +814,7 @@ HLDPDTV.kr@SD
 TBSTV.kr@SD
 TVCHOSUN2.kr
 CWIN.hk
+RTHKTV31.hk@SD
 SEYT.hk
 SMUS.hk
 SSPT.hk
@@ -1068,7 +1072,6 @@ FirstMusicChannel.by@SD
 53
 401
 2006
-3216
 300035
 3239
 208
@@ -1084,9 +1087,9 @@ FirstMusicChannel.by@SD
 100091
 1638
 289
+3
 2763
 2683
-5691
 1567
 330
 2290
@@ -1119,6 +1122,7 @@ iptv36.ch7
 iptv36.tv5
 ThaiChannel8.th
 CoolChannel.th@SD
+DOPAChannel.th
 GMM 25.th
 MCOT HD.th
 iptv36.nation
@@ -1256,6 +1260,7 @@ KissKissTV.it@SD
 LaCNews24.it@SD
 LaCTV.it@SD
 Rai3.it
+RaiGulp.it
 Rete8.it@SD
 SanMarinoRTV.sm
 SanMarinoRTVSport.sm
