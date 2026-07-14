@@ -81,6 +81,7 @@ qpvnhd
 vietnamtoday
 youtv
 9XM.in@SD
+30AMusic.us@SD
 KMBYLD275.us@SD
 Brit.Asia.in
 CMCTV.hr@SD
@@ -89,7 +90,6 @@ Deluxe.Lounge.de
 DELUXE.MUSIC.de
 Deluxe.Rap.de
 US39000038W
-KpopMix.ar@SD
 KpopTVPlay.br@SD
 4653
 musicbox
@@ -177,7 +177,6 @@ plex.tv.TG.Junior.plex
 647f8d22a2fc3fadb4721685-6617f52f0049fcb8e2b0d5b8
 ZooMoo.us2
 24.Hour.Free.Movies.distro
-30ATVClassicMovies.us@SD
 68487fb3f212bedacf5a53e3
 5e20b730f2f8d5003d739db7-66be944f8711311880995280
 562b0413f28e57899e3542b71ae5443a
@@ -201,7 +200,6 @@ BIZCinema.uz@SD
 boxhits
 boxmovie1
 Canal+.Cinéma(s).fr
-CANAL+.Film.HD.pl
 CHARGE!.us2
 400000028
 Cinema.HD.mn
@@ -375,6 +373,7 @@ FashionTVSecrets.fr@HD
 KVCRDT242.us@SD
 FortunaTV.tr@SD
 france_24
+GakinoTsukaiEnglishSubs@HD
 Game.Show.Network.HD.us2
 GlobalFashionChannel.us@SD
 HalaLondon.uk@SD
@@ -802,7 +801,6 @@ HLANDTV.kr@SD
 HLAODTV.kr@SD
 HLCQDTV.kr@SD
 HLAQDTV.kr@SD
-HLAJDTV.kr@SD
 HLAMDTV.kr@SD
 HLATDTV.kr@SD
 HLDRDTV.kr@SD
@@ -814,7 +812,6 @@ HLDPDTV.kr@SD
 TBSTV.kr@SD
 TVCHOSUN2.kr
 CWIN.hk
-RTHKTV31.hk@SD
 SEYT.hk
 SMUS.hk
 SSPT.hk
@@ -909,7 +906,6 @@ AlSaudiya.sa@SD
 FirstMusicChannelRussia.by@SD
 503
 8915
-FreshNews.kh@SD
 1520
 300082
 300086
@@ -918,10 +914,12 @@ FreshNews.kh@SD
 MaharTV.mm@SD
 1667
 2276
+MCOTHD.th@HD
 229
 MTA6Asia.uk@SD
 3304
 2428
+NewsOne.pk@SD
 55
 6643
 RepublicBangla.in@SD
@@ -1091,7 +1089,7 @@ FirstMusicChannel.by@SD
 2763
 2683
 1567
-330
+3035
 2290
 108
 620
@@ -1257,10 +1255,8 @@ CHC影迷电影.cn
 CafeTV24.it@SD
 Canale7.it@SD
 KissKissTV.it@SD
-LaCNews24.it@SD
 LaCTV.it@SD
 Rai3.it
-RaiGulp.it
 Rete8.it@SD
 SanMarinoRTV.sm
 SanMarinoRTVSport.sm
