@@ -91,7 +91,6 @@ DELUXE.MUSIC.de
 Deluxe.Rap.de
 US39000038W
 KpopMix.ar@SD
-KpopTVPlay.br@SD
 4653
 musicbox
 MUSIC.BOX.CLASSIC.musicbox
@@ -198,6 +197,7 @@ BIZCinema.uz@SD
 boxhits
 boxmovie1
 Canal+.Cinéma(s).fr
+CANAL+.Film.HD.pl
 CHARGE!.us2
 400000028
 Cinema.HD.mn
@@ -235,7 +235,6 @@ HorrorTV@HD
 KungFu+@HD
 6a1610bebdf296985fd95603-6196c9241d310bf925e02616
 834e2a09799752b3be7ecaab726b7242
-MegaCineTV.do@HD
 plex.tv.Midnight.Pulp.plex
 5f77977bd924d80007eee60c
 MixHollywood.eg@SD
@@ -372,6 +371,7 @@ FashionTVSecrets.fr@HD
 KVCRDT242.us@SD
 FortunaTV.tr@SD
 france_24
+GakinoTsukaiEnglishSubs@HD
 Game.Show.Network.HD.us2
 GlobalFashionChannel.us@SD
 HalaLondon.uk@SD
@@ -437,6 +437,7 @@ Surfing+@HD
 DE:.Terra.Mater.WILD.be
 tlchd
 6430aa45fc3be5947780904e-6720049929bcfe7b69d4feff
+TravelBoxBrazil.br@SD
 TRT.1.HD.tr
 TRT.News
 TRT.World.HD.tr
@@ -634,6 +635,9 @@ Alkass.Four.ae
 AlkassSix.qa
 AlkassSHOOF.qa
 AlkassSHOOF2.qa
+ArryadiaHD1.ma
+ArryadiaHD2.ma@HD
+ArryadiaHD3.ma@HD
 AS3SportTV.ve@SD
 ATGLive.se
 beIN.SPORTS.Xtra.distro
@@ -798,11 +802,11 @@ HLAQDTV.kr@SD
 HLAJDTV.kr@SD
 HLAMDTV.kr@SD
 HLATDTV.kr@SD
-M&M.kr
 HLDRDTV.kr@SD
 HLCGDTV.kr@SD
 HLKJDTV.kr@SD
 HLDQDTV.kr@SD
+HLDHDTV.kr@SD
 HLDPDTV.kr@SD
 TBSTV.kr@SD
 TVCHOSUN2.kr
@@ -898,6 +902,7 @@ AlSaudiya.sa@SD
 300121
 259
 9097
+FirstMusicChannelRussia.by@SD
 503
 8915
 FreshNews.kh@SD
@@ -1043,7 +1048,6 @@ match-boets
 1836
 5364
 FirstMusicChannel.by@SD
-FirstMusicChannelRussia.by@SD
 5651
 2487
 2350
