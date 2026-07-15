@@ -81,16 +81,18 @@ qpvnhd
 vietnamtoday
 youtv
 9XM.in@SD
-30AMusic.us@SD
 KMBYLD275.us@SD
 Brit.Asia.in
+Classica.us@SD
 CMCTV.hr@SD
+CMTEqualPlay.us@SD
 Deluxe.Dance.de
 Deluxe.Lounge.de
 DELUXE.MUSIC.de
 Deluxe.Rap.de
 US39000038W
 KpopMix.ar@SD
+KpopTVPlay.br@SD
 4653
 musicbox
 MUSIC.BOX.CLASSIC.musicbox
@@ -128,6 +130,7 @@ BabyFirst.TV.us2
 BabyTV.uk
 69fca9f9b9c0f0d444f631ca
 cbeebies
+5f1aca0b4e448e00075e7c5e
 64666345f3f5b1000882bfb4
 Cartoon_Classics
 boomerang
@@ -188,7 +191,6 @@ AmericanHorrors.us@SD
 ARTFLIXMovieClassics.us@SD
 AsianBox.mn
 6a1610bebdf296985fd95603-5eea605474085f0040ddc767
-AuroraMediaFilms.gt@SD
 axnhd
 AXN.Black.ro
 AXN.Movies.HD.pt
@@ -232,6 +234,7 @@ hollywoodclassics
 plex.tv.Horror.by.ALTER.plex
 HorrorTV@HD
 64305451fc3be5947773c339-656fabcfdbcce28c3a417417
+ION@HD
 65453f30085df200085883d8
 99951157
 9999614
@@ -244,6 +247,7 @@ plex.tv.Midnight.Pulp.plex
 MixHollywood.eg@SD
 MNPlus.mn@SD
 MovieBox.mn
+Moviedome.us@Germany
 EN:.Movies.Action.sa
 64a3d96f060e830008af6745
 697140a85d851f5e69414688-6623c78128a167c6e5b3079c
@@ -351,7 +355,7 @@ bbcearth
 plex.tv.Impossible.-.Quiz.Show.plex
 bbclifestyle
 BIZTV.uz@SD
-Bravo.+1.nz
+plex.tv.CBS.News.plex
 ChileChannel.cl@SD
 China.Travel.distro
 CNA.(HD).sg
@@ -376,6 +380,7 @@ KVCRDT242.us@SD
 FortunaTV.tr@SD
 france_24
 GakinoTsukaiEnglishSubs@HD
+5e54187aae660e00093561d6
 Game.Show.Network.HD.us2
 GlobalFashionChannel.us@SD
 HalaLondon.uk@SD
@@ -431,6 +436,7 @@ Right.Now.Tv.distro
 plex.tv.Robot.Wars.by.Mech+.plex
 USBB52000022Q
 5f21ea08007a49000762d349
+SonyOneSharkTankBrasil@HD
 eb1dbd690001553eacdf32d7b155b933
 plex.tv.Spark.TV.Luz.y.Amor.plex
 StarChannel.gr@SD
@@ -440,6 +446,7 @@ plex.tv.Surf.Cinema.plex
 Surfing+@HD
 DE:.Terra.Mater.WILD.be
 tlchd
+647f8d22a2fc3fadb4721685-6308f121ac9983739c8a29bd
 6430aa45fc3be5947780904e-6720049929bcfe7b69d4feff
 TravelBoxBrazil.br@SD
 TRT.1.HD.tr
@@ -688,11 +695,13 @@ NBC.Sports.Now.us2
 OmanSportsTV.om
 OvacionTV.pe
 plex.tv.Pac-12.Insider.plex
+60d39387706fe50007fda8e8
 PFL@HD
 6334a574605f140007e233c4
 plex.tv.PGA.TOUR.plex
 696e024a7e92438c27a425a8
 Redbull.Dummy.us
+UK:.RugbyPass.TV.be
 LN_DAF8DC73-29E5-458C-87E1-8421786CBFD9
 mjh-sky-racing-1
 mjh-sky-racing-2
@@ -803,7 +812,6 @@ HLANDTV.kr@SD
 HLAODTV.kr@SD
 HLCQDTV.kr@SD
 HLAQDTV.kr@SD
-HLAJDTV.kr@SD
 HLAMDTV.kr@SD
 HLATDTV.kr@SD
 HLDRDTV.kr@SD
@@ -815,6 +823,7 @@ HLDPDTV.kr@SD
 TBSTV.kr@SD
 TVCHOSUN2.kr
 CWIN.hk
+RTHKTV31.hk@SD
 SEYT.hk
 SMUS.hk
 SSPT.hk
