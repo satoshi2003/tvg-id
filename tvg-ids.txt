@@ -83,7 +83,6 @@ youtv
 9XM.in@SD
 30AMusic.us@SD
 KMBYLD275.us@SD
-Brit.Asia.in
 Classica.us@SD
 CMCTV.hr@SD
 CMTEqualPlay.us@SD
@@ -149,6 +148,7 @@ Duck.TV.HD.sk
 USBC44000072I
 67c63b90a20c0399a381b816
 60fb040d4795a6000762fe8f
+plex.tv.KidsFlix.plex
 60fb01a24795a6000762fe83
 b5cde121f98257329346020e2a60295a
 5da0c85bd2c9c10009370984
@@ -635,7 +635,6 @@ WRadioMX
 Z100
 ZAYAN
 mjh-radio-ih-9473
-30AGolfKingdom.us@SD
 plex.tv.ACCDN.plex
 AceTV@HD
 ACI.Sport.Tv.it
@@ -1136,12 +1135,14 @@ iptv36.ch7
 iptv36.tv5
 ThaiChannel8.th
 CoolChannel.th@SD
+DOPAChannel.th
 GMM 25.th
 MCOT HD.th
 iptv36.nation
 NATTV.us@SD
 iptv36.nbt
 iptv36.one
+PoliceTV.th@SD
 RamaChannel.th@SD
 ThaiPBS.th
 TPTV.th
@@ -1227,7 +1228,6 @@ KissKissTV.it@SD
 LaCNews24.it@SD
 LaCTV.it@SD
 Rai3.it
-RaiGulp.it
 Rete8.it@SD
 SanMarinoRTV.sm
 SanMarinoRTVSport.sm
