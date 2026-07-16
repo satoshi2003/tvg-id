@@ -83,6 +83,7 @@ youtv
 9XM.in@SD
 30AMusic.us@SD
 KMBYLD275.us@SD
+Brit.Asia.in
 Classica.us@SD
 CMCTV.hr@SD
 CMTEqualPlay.us@SD
@@ -148,7 +149,6 @@ Duck.TV.HD.sk
 USBC44000072I
 67c63b90a20c0399a381b816
 60fb040d4795a6000762fe8f
-plex.tv.KidsFlix.plex
 60fb01a24795a6000762fe83
 b5cde121f98257329346020e2a60295a
 5da0c85bd2c9c10009370984
@@ -192,6 +192,7 @@ ARTFLIXMovieClassics.us@SD
 AsianBox.mn
 6a1610bebdf296985fd95603-5eea605474085f0040ddc767
 axnhd
+AXN.Movies.HD.pt
 AXN.White.HD.pt
 6a1610bebdf296985fd95603-63e63f20abacad42ed3d1acf
 5ce4475cd43850831ca91ce7
@@ -200,7 +201,6 @@ BIZCinema.uz@SD
 1395
 boxhits
 boxmovie1
-Canal+.Cinéma(s).fr
 CHARGE!.us2
 400000028
 Cinema.HD.mn
@@ -817,6 +817,7 @@ HLAQDTV.kr@SD
 HLAJDTV.kr@SD
 HLAMDTV.kr@SD
 HLATDTV.kr@SD
+M&M.kr
 HLDRDTV.kr@SD
 HLCGDTV.kr@SD
 HLKJDTV.kr@SD
@@ -826,6 +827,7 @@ HLDPDTV.kr@SD
 TBSTV.kr@SD
 TVCHOSUN2.kr
 CWIN.hk
+RTHKTV31.hk@SD
 SEYT.hk
 SMUS.hk
 SSPT.hk
@@ -1134,7 +1136,6 @@ iptv36.ch7
 iptv36.tv5
 ThaiChannel8.th
 CoolChannel.th@SD
-DOPAChannel.th
 GMM 25.th
 MCOT HD.th
 iptv36.nation
