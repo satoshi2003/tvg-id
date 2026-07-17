@@ -420,10 +420,6 @@ tv360plus13
 tv360plus14
 ninochannel
 sglive
-KBSNSports.kr
-SBSSports.kr
-SPOTV.kr
-SPOTV2.kr
 CWIN.hk
 SEYT.hk
 SMUS.hk
@@ -672,7 +668,7 @@ match-boets
 2763
 2683
 1567
-330
+3035
 2290
 108
 620
