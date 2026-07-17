@@ -420,6 +420,10 @@ tv360plus13
 tv360plus14
 ninochannel
 sglive
+KBSNSports.kr
+SBSSports.kr
+SPOTV.kr
+SPOTV2.kr
 CWIN.hk
 SEYT.hk
 SMUS.hk
