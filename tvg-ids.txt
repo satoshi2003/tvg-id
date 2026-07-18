@@ -418,8 +418,6 @@ tv360plus11
 tv360plus12
 tv360plus13
 tv360plus14
-ninochannel
-sglive
 CWIN.hk
 SEYT.hk
 SMUS.hk
@@ -481,7 +479,6 @@ AlSaudiya.sa@SD
 1035
 4621
 100013
-2266
 300121
 259
 9097
@@ -495,7 +492,6 @@ AlSaudiya.sa@SD
 MaharTV.mm@SD
 1667
 2276
-MCOTHD.th@HD
 229
 MTA6Asia.uk@SD
 3304
@@ -668,7 +664,7 @@ match-boets
 2763
 2683
 1567
-3035
+330
 2290
 108
 620
@@ -709,17 +705,15 @@ CCTV7.cn
 CCTV8.cn
 CCTV9.cn
 CCTV11.cn
-CCTV12.cn
 CCTV13.cn
 CCTV14.cn
-CCTV15.cn
 CCTV16.cn
+CCTV17.cn
 东南卫视.cn
 东方卫视.cn
 东方卫视4K.cn
 云南卫视.cn
 兵团卫视.cn
-内蒙古卫视.cn
 北京卫视.cn
 厦门卫视.cn
 吉林卫视.cn
@@ -728,6 +722,7 @@ CCTV16.cn
 宁夏卫视.cn
 安徽卫视.cn
 山东卫视.cn
+山西卫视.cn
 广东卫视.cn
 广西卫视.cn
 新疆卫视.cn
@@ -750,9 +745,6 @@ CCTV16.cn
 CHC动作电影.cn
 CHC家庭影院.cn
 CHC影迷电影.cn
-世界地理.cn
-发现之旅.cn
-广东民生.cn
 广州南国都市4K.cn
 广州新闻.cn
 广州综合.cn
@@ -771,7 +763,8 @@ CHC影迷电影.cn
 河南睛彩中原.cn
 河南象视界.cn
 河南都市频道.cn
-第一剧场.cn
+风云足球.cn
+高尔夫网球.cn
 SanMarinoRTV.sm
 SanMarinoRTVSport.sm
 BT Sport 1
