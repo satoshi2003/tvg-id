@@ -418,6 +418,10 @@ tv360plus11
 tv360plus12
 tv360plus13
 tv360plus14
+KBSNSports.kr
+SBSSports.kr
+SPOTV.kr
+SPOTV2.kr
 CWIN.hk
 SEYT.hk
 SMUS.hk
@@ -591,7 +595,7 @@ match-boets
 1018
 504
 2470
-3019
+100010
 400009
 2275
 1487
