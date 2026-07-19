@@ -418,7 +418,6 @@ tv360plus11
 tv360plus12
 tv360plus13
 tv360plus14
-M&M.kr
 CWIN.hk
 SEYT.hk
 SMUS.hk
@@ -706,15 +705,19 @@ CCTV7.cn
 CCTV8.cn
 CCTV9.cn
 CCTV11.cn
+CCTV12.cn
 CCTV13.cn
 CCTV14.cn
+CCTV15.cn
 CCTV16.cn
 CCTV17.cn
+CCTV4K.cn
+CCTV8K.cn
 东南卫视.cn
 东方卫视.cn
 东方卫视4K.cn
 云南卫视.cn
-兵团卫视.cn
+内蒙古卫视.cn
 北京卫视.cn
 厦门卫视.cn
 吉林卫视.cn
@@ -725,8 +728,6 @@ CCTV17.cn
 山东卫视.cn
 山西卫视.cn
 广东卫视.cn
-广西卫视.cn
-新疆卫视.cn
 江苏卫视.cn
 江西卫视.cn
 河北卫视.cn
@@ -749,7 +750,6 @@ CHC影迷电影.cn
 广州南国都市4K.cn
 广州新闻.cn
 广州综合.cn
-文化精品.cn
 河南乡村频道.cn
 河南公共频道.cn
 河南国学频道.cn
@@ -764,7 +764,7 @@ CHC影迷电影.cn
 河南睛彩中原.cn
 河南象视界.cn
 河南都市频道.cn
-风云足球.cn
+风云音乐.cn
 高尔夫网球.cn
 SanMarinoRTV.sm
 SanMarinoRTVSport.sm
